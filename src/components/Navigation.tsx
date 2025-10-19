@@ -76,6 +76,12 @@ export default function Navigation() {
             >
               About Us
             </Link>
+            <Link
+              to="/smart-questions"
+              className="text-slate hover:text-teal transition-colors font-medium"
+            >
+              200 Smart Questions
+            </Link>
             <a
               href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
               target="_blank"
@@ -143,6 +149,14 @@ export default function Navigation() {
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 About Us
+              </Link>
+
+              <Link
+                to="/smart-questions"
+                className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                200 Smart Questions
               </Link>
 
               <a
