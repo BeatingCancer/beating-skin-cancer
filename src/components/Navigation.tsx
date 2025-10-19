@@ -77,7 +77,7 @@ export default function Navigation() {
               About Us
             </Link>
             <Link
-              to="/smart-questions"
+              to="/questions-to-ask"
               className="text-slate hover:text-teal transition-colors font-medium"
             >
               200 Smart Questions
@@ -152,7 +152,7 @@ export default function Navigation() {
               </Link>
 
               <Link
-                to="/smart-questions"
+                to="/questions-to-ask"
                 className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
                 onClick={() => setIsMobileMenuOpen(false)}
               >

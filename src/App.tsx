@@ -8,6 +8,7 @@ import SquamousCellCarcinoma from './pages/SquamousCellCarcinoma';
 import BasalCellCarcinoma from './pages/BasalCellCarcinoma';
 import Prevention from './pages/Prevention';
 import About from './pages/About';
+import SmartQuestions from './pages/SmartQuestions';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 
@@ -34,6 +35,7 @@ function App() {
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
           <Route path="/prevention" element={<Prevention />} />
           <Route path="/about" element={<About />} />
+          <Route path="/questions-to-ask" element={<SmartQuestions />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-of-service" element={<TermsOfService />} />
         </Routes>

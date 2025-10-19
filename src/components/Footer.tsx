@@ -15,6 +15,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2 text-white/70">
               <li><Link to="/about" className="hover:text-teal transition-colors">About Us</Link></li>
+              <li><Link to="/questions-to-ask" className="hover:text-teal transition-colors">200 Smart Questions</Link></li>
               <li><a href="#" className="hover:text-teal transition-colors">Contact</a></li>
               <li><Link to="/privacy-policy" className="hover:text-teal transition-colors">Privacy Policy</Link></li>
               <li><Link to="/terms-of-service" className="hover:text-teal transition-colors">Terms of Service</Link></li>
