@@ -32,7 +32,7 @@ export default function Navigation() {
               <button
                 className="flex items-center gap-1 text-slate hover:text-teal transition-colors font-medium"
               >
-                Explore Cancers
+                Skin Cancers
                 <ChevronDown size={16} className={`transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`} />
               </button>
 
