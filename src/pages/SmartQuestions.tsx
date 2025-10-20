@@ -129,7 +129,16 @@ export default function SmartQuestions() {
                   Why do doctors pay so much attention to how deep a melanoma is?
                 </a>
               </li>
-              <li>What does "stage 1 vs stage 3" mean in plain language?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22stage%201%20vs%20stage%203%22%20mean%20in%20plain%20language%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What does "stage 1 vs stage 3" mean in plain language?
+                </a>
+              </li>
               <li>Where in the skin does melanoma start, and why can it sometimes spread?</li>
               <li>How common is melanoma, and what are the main causes or risk factors?</li>
               <li>After a biopsy confirms melanoma, what usually happens next?</li>
