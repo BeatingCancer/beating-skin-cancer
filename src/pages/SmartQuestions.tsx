@@ -139,28 +139,226 @@ export default function SmartQuestions() {
                   What does "stage 1 vs stage 3" mean in plain language?
                 </a>
               </li>
-              <li>Where in the skin does melanoma start, and why can it sometimes spread?</li>
-              <li>How common is melanoma, and what are the main causes or risk factors?</li>
-              <li>After a biopsy confirms melanoma, what usually happens next?</li>
-              <li>Who are the typical specialists involved — and what does each one do?</li>
-              <li>How do doctors decide whether to order more tests or imaging?</li>
-              <li>What does the phrase "clear margins" mean after surgery?</li>
-              <li>How soon does treatment usually begin, and what factors affect timing?</li>
-              <li>What are the main treatment options for early melanoma?</li>
-              <li>What's the difference between wide local excision and Mohs surgery for melanoma in situ?</li>
-              <li>How do doctors decide if a sentinel lymph node biopsy is needed?</li>
-              <li>What are the goals of immunotherapy and targeted therapy?</li>
-              <li>How do side effects from these treatments usually feel for patients?</li>
-              <li>How can I manage the stress or fear that comes with a melanoma diagnosis?</li>
-              <li>How do most people explain melanoma to their family or children?</li>
-              <li>What can I expect during recovery from surgery?</li>
-              <li>Are there questions I should ask about scarring and healing?</li>
-              <li>How can I stay organized with appointments and test results?</li>
-              <li>What are smart questions to ask at my first oncology or surgery visit?</li>
-              <li>What information should I bring to help my doctor make the best plan?</li>
-              <li>How can I make sure I understand my pathology report when it's explained?</li>
-              <li>What are the pros and cons of getting a second opinion at a melanoma center?</li>
-              <li>How can I take notes or record my visit so I don't miss important details?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Where%20in%20the%20skin%20does%20melanoma%20start%2C%20and%20why%20can%20it%20sometimes%20spread%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Where in the skin does melanoma start, and why can it sometimes spread?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20common%20is%20melanoma%2C%20and%20what%20are%20the%20main%20causes%20or%20risk%20factors%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How common is melanoma, and what are the main causes or risk factors?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=After%20a%20biopsy%20confirms%20melanoma%2C%20what%20usually%20happens%20next%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  After a biopsy confirms melanoma, what usually happens next?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Who%20are%20the%20typical%20specialists%20involved%20%E2%80%94%20and%20what%20does%20each%20one%20do%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Who are the typical specialists involved — and what does each one do?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20whether%20to%20order%20more%20tests%20or%20imaging%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do doctors decide whether to order more tests or imaging?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20the%20phrase%20%22clear%20margins%22%20mean%20after%20surgery%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What does the phrase "clear margins" mean after surgery?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20soon%20does%20treatment%20usually%20begin%2C%20and%20what%20factors%20affect%20timing%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How soon does treatment usually begin, and what factors affect timing?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20main%20treatment%20options%20for%20early%20melanoma%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are the main treatment options for early melanoma?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20wide%20local%20excision%20and%20Mohs%20surgery%20for%20melanoma%20in%20situ%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What's the difference between wide local excision and Mohs surgery for melanoma in situ?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20if%20a%20sentinel%20lymph%20node%20biopsy%20is%20needed%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do doctors decide if a sentinel lymph node biopsy is needed?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20goals%20of%20immunotherapy%20and%20targeted%20therapy%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are the goals of immunotherapy and targeted therapy?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20side%20effects%20from%20these%20treatments%20usually%20feel%20for%20patients%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do side effects from these treatments usually feel for patients?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20manage%20the%20stress%20or%20fear%20that%20comes%20with%20a%20melanoma%20diagnosis%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I manage the stress or fear that comes with a melanoma diagnosis?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20most%20people%20explain%20melanoma%20to%20their%20family%20or%20children%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do most people explain melanoma to their family or children?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20I%20expect%20during%20recovery%20from%20surgery%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What can I expect during recovery from surgery?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20questions%20I%20should%20ask%20about%20scarring%20and%20healing%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Are there questions I should ask about scarring and healing?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20organized%20with%20appointments%20and%20test%20results%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I stay organized with appointments and test results?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20smart%20questions%20to%20ask%20at%20my%20first%20oncology%20or%20surgery%20visit%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are smart questions to ask at my first oncology or surgery visit?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20information%20should%20I%20bring%20to%20help%20my%20doctor%20make%20the%20best%20plan%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What information should I bring to help my doctor make the best plan?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20make%20sure%20I%20understand%20my%20pathology%20report%20when%20it%27s%20explained%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I make sure I understand my pathology report when it's explained?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20pros%20and%20cons%20of%20getting%20a%20second%20opinion%20at%20a%20melanoma%20center%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are the pros and cons of getting a second opinion at a melanoma center?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20take%20notes%20or%20record%20my%20visit%20so%20I%20don%27t%20miss%20important%20details%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I take notes or record my visit so I don't miss important details?
+                </a>
+              </li>
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
