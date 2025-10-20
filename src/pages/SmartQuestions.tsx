@@ -384,8 +384,26 @@ export default function SmartQuestions() {
             <h2 className="text-3xl font-serif font-bold text-navy mb-4">Melanoma – Living With a History</h2>
             <p className="text-slate mb-6">Advanced questions for long-term follow-up, prevention, and peace of mind.</p>
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
-              <li>What is a typical follow-up schedule after melanoma treatment?</li>
-              <li>How does the risk of recurrence change over time?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20a%20typical%20follow-up%20schedule%20after%20melanoma%20treatment%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What is a typical follow-up schedule after melanoma treatment?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20the%20risk%20of%20recurrence%20change%20over%20time%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How does the risk of recurrence change over time?
+                </a>
+              </li>
               <li>
                 <a
                   href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20kinds%20of%20checkups%20or%20imaging%20are%20done%20for%20different%20stages%3F"
@@ -416,26 +434,206 @@ export default function SmartQuestions() {
                   What's the difference between a new melanoma and a recurrence of the old one?
                 </a>
               </li>
-              <li>How can I perform a useful self-skin exam each month?</li>
-              <li>What should I look for around my surgical scar or lymph-node area?</li>
-              <li>Are mole-mapping apps or total-body photos worth using?</li>
-              <li>How can I tell when a mole looks "different enough" to get checked?</li>
-              <li>When should I call the doctor versus wait for my next visit?</li>
-              <li>What daily habits lower the chance of getting another melanoma?</li>
-              <li>How do SPF, shade, and clothing work together to protect me?</li>
-              <li>Is it safe to get some sun for vitamin D if I've had melanoma?</li>
-              <li>What is nicotinamide, and how does it help prevent future skin cancers?</li>
-              <li>How do medications or immune conditions change my skin-cancer risk?</li>
-              <li>How do people cope with the fear of recurrence over the years?</li>
-              <li>What are healthy ways to balance vigilance with peace of mind?</li>
-              <li>Are there support groups or online communities for melanoma survivors?</li>
-              <li>How can I talk about my experience without feeling defined by it?</li>
-              <li>What small milestones should I celebrate after treatment ends?</li>
-              <li>What new treatments or clinical trials are changing melanoma care?</li>
-              <li>How does genetic testing for melanoma risk work, and who benefits from it?</li>
-              <li>What can my family do to get screened or reduce their risk?</li>
-              <li>How does technology (AI skin scans, teledermatology) fit into follow-up care?</li>
-              <li>How can I stay educated about melanoma without feeling overwhelmed?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20perform%20a%20useful%20self-skin%20exam%20each%20month%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I perform a useful self-skin exam each month?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20look%20for%20around%20my%20surgical%20scar%20or%20lymph-node%20area%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What should I look for around my surgical scar or lymph-node area?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20mole-mapping%20apps%20or%20total-body%20photos%20worth%20using%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Are mole-mapping apps or total-body photos worth using?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20tell%20when%20a%20mole%20looks%20%22different%20enough%22%20to%20get%20checked%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I tell when a mole looks "different enough" to get checked?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20should%20I%20call%20the%20doctor%20versus%20wait%20for%20my%20next%20visit%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  When should I call the doctor versus wait for my next visit?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20daily%20habits%20lower%20the%20chance%20of%20getting%20another%20melanoma%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What daily habits lower the chance of getting another melanoma?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20SPF%2C%20shade%2C%20and%20clothing%20work%20together%20to%20protect%20me%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do SPF, shade, and clothing work together to protect me?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Is%20it%20safe%20to%20get%20some%20sun%20for%20vitamin%20D%20if%20I%27ve%20had%20melanoma%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Is it safe to get some sun for vitamin D if I've had melanoma?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20nicotinamide%2C%20and%20how%20does%20it%20help%20prevent%20future%20skin%20cancers%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What is nicotinamide, and how does it help prevent future skin cancers?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20medications%20or%20immune%20conditions%20change%20my%20skin-cancer%20risk%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do medications or immune conditions change my skin-cancer risk?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20people%20cope%20with%20the%20fear%20of%20recurrence%20over%20the%20years%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How do people cope with the fear of recurrence over the years?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20healthy%20ways%20to%20balance%20vigilance%20with%20peace%20of%20mind%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are healthy ways to balance vigilance with peace of mind?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20support%20groups%20or%20online%20communities%20for%20melanoma%20survivors%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Are there support groups or online communities for melanoma survivors?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20talk%20about%20my%20experience%20without%20feeling%20defined%20by%20it%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I talk about my experience without feeling defined by it?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20small%20milestones%20should%20I%20celebrate%20after%20treatment%20ends%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What small milestones should I celebrate after treatment ends?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20new%20treatments%20or%20clinical%20trials%20are%20changing%20melanoma%20care%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What new treatments or clinical trials are changing melanoma care?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20genetic%20testing%20for%20melanoma%20risk%20work%2C%20and%20who%20benefits%20from%20it%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How does genetic testing for melanoma risk work, and who benefits from it?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20my%20family%20do%20to%20get%20screened%20or%20reduce%20their%20risk%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What can my family do to get screened or reduce their risk?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20technology%20(AI%20skin%20scans%2C%20teledermatology)%20fit%20into%20follow-up%20care%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How does technology (AI skin scans, teledermatology) fit into follow-up care?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20educated%20about%20melanoma%20without%20feeling%20overwhelmed%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  How can I stay educated about melanoma without feeling overwhelmed?
+                </a>
+              </li>
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
