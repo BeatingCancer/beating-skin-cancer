@@ -109,7 +109,16 @@ export default function SmartQuestions() {
             <h2 className="text-3xl font-serif font-bold text-navy mb-4">Melanoma – If You've Just Been Diagnosed</h2>
             <p className="text-slate mb-6">Starter questions to help you understand your diagnosis and what comes next.</p>
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
-              <li>What exactly is melanoma, and how is it different from other skin cancers?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?q=What+exactly+is+melanoma%2C+and+how+is+it+different+from+other+skin+cancers%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What exactly is melanoma, and how is it different from other skin cancers?
+                </a>
+              </li>
               <li>Why do doctors pay so much attention to how deep a melanoma is?</li>
               <li>What does "stage 1 vs stage 3" mean in plain language?</li>
               <li>Where in the skin does melanoma start, and why can it sometimes spread?</li>
