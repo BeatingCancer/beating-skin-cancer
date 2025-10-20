@@ -179,9 +179,36 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>What is a typical follow-up schedule after melanoma treatment?</li>
               <li>How does the risk of recurrence change over time?</li>
-              <li>What kinds of checkups or imaging are done for different stages?</li>
-              <li>What are common signs of melanoma coming back in the skin or lymph nodes?</li>
-              <li>What's the difference between a new melanoma and a recurrence of the old one?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20kinds%20of%20checkups%20or%20imaging%20are%20done%20for%20different%20stages%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What kinds of checkups or imaging are done for different stages?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20common%20signs%20of%20melanoma%20coming%20back%20in%20the%20skin%20or%20lymph%20nodes%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What are common signs of melanoma coming back in the skin or lymph nodes?
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20a%20new%20melanoma%20and%20a%20recurrence%20of%20the%20old%20one%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  What's the difference between a new melanoma and a recurrence of the old one?
+                </a>
+              </li>
               <li>How can I perform a useful self-skin exam each month?</li>
               <li>What should I look for around my surgical scar or lymph-node area?</li>
               <li>Are mole-mapping apps or total-body photos worth using?</li>
