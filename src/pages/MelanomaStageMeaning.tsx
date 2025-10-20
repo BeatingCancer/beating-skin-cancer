@@ -35,7 +35,7 @@ export default function MelanomaStageMeaning() {
           <h3 className="text-2xl font-serif text-white mb-4">Have Questions?</h3>
           <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about melanoma staging</p>
           <a
-            href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+            href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22stage%201%20vs%20stage%203%22%20mean%20in%20plain%20language%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium"
@@ -302,7 +302,7 @@ export default function MelanomaStageMeaning() {
           <h3 className="text-2xl font-serif text-white mb-4">Still Have Questions?</h3>
           <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about melanoma staging</p>
           <a
-            href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+            href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22stage%201%20vs%20stage%203%22%20mean%20in%20plain%20language%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium"
