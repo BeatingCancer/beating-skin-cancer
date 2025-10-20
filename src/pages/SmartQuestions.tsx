@@ -119,7 +119,16 @@ export default function SmartQuestions() {
                   What exactly is melanoma, and how is it different from other skin cancers?
                 </a>
               </li>
-              <li>Why do doctors pay so much attention to how deep a melanoma is?</li>
+              <li>
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20doctors%20pay%20so%20much%20attention%20to%20how%20deep%20a%20melanoma%20is%3F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal/80 hover:underline transition-colors"
+                >
+                  Why do doctors pay so much attention to how deep a melanoma is?
+                </a>
+              </li>
               <li>What does "stage 1 vs stage 3" mean in plain language?</li>
               <li>Where in the skin does melanoma start, and why can it sometimes spread?</li>
               <li>How common is melanoma, and what are the main causes or risk factors?</li>
