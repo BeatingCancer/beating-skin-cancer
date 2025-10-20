@@ -1,9 +1,59 @@
 import { AlertTriangle, FileText, Target, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Helmet } from "react-helmet";
+
+const canonical = "https://www.beatingskincancer.com/melanoma/melanoma-stage-meaning";
+const title = "What Does My Melanoma Stage Mean? | Beating Skin Cancer";
+const description =
+  "Plain-language guide to melanoma staging (Stages 0–IV), how AJCC staging works, what it means for treatment and prognosis, and smart questions to ask your doctor.";
+
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What Does My Melanoma Stage Mean?",
+  "description": description,
+  "author": { "@type": "Organization", "name": "Beating Cancers" },
+  "publisher": { "@type": "Organization", "name": "Beating Cancers" },
+  "mainEntityOfPage": canonical,
+};
+
+const breadcrumbsJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.beatingskincancer.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Melanoma", "item": "https://www.beatingskincancer.com/melanoma" },
+    { "@type": "ListItem", "position": 3, "name": "What Does My Melanoma Stage Mean?", "item": canonical }
+  ],
+};
 
 export default function MelanomaStageMeaning() {
   return (
     <div className="min-h-screen bg-ivory">
+      import { AlertTriangle, FileText, Target, Heart } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
+
+const canonical = "https://www.beatingskincancer.com/melanoma/melanoma-stage-meaning";
+const title = "What Does My Melanoma Stage Mean? | Beating Skin Cancer";
+const description =
+  "Plain-language guide to melanoma staging (Stages 0–IV), how AJCC staging works, what it means for treatment and prognosis, and smart questions to ask your doctor.";
+
+// ...JSON blocks here...
+
+export default function MelanomaStageMeaning() {
+  return (
+    <div className="min-h-screen bg-ivory">
+      <Helmet>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <link rel="canonical" href={canonical} />
+        {/* ...rest of Helmet... */}
+      </Helmet>
+
+      <div className="bg-gradient-to-br from-navy to-slate py-20 pt-32">
+        {/* your original content continues here */}
+
       <div className="bg-gradient-to-br from-navy to-slate py-20 pt-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <Link
