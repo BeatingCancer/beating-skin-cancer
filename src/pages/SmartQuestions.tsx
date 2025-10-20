@@ -111,7 +111,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?q=What%20exactly%20is%20melanoma%2C%20and%20how%20is%20it%20different%20from%20other%20skin%20cancers%3F"
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20exactly%20is%20melanoma%2C%20and%20how%20is%20it%20different%20from%20other%20skin%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
