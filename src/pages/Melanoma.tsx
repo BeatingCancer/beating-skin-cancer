@@ -1,4 +1,5 @@
 import { AlertTriangle, Eye, Shield, Activity } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export default function Melanoma() {
   return (
@@ -76,15 +77,13 @@ export default function Melanoma() {
               <div className="font-semibold text-teal mb-1">Sentinel Lymph Node Biopsy: What It Means for Melanoma</div>
               <div className="text-sm text-slate/70">Understanding when and why this procedure is recommended</div>
             </a>
-            <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              to="/melanoma/melanoma-stage-meaning"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
             >
               <div className="font-semibold text-teal mb-1">What Does My Melanoma Stage Mean?</div>
               <div className="text-sm text-slate/70">Plain-language explanation of melanoma staging from 0 to IV</div>
-            </a>
+            </Link>
             <a
               href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
               target="_blank"
