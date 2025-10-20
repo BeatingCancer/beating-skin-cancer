@@ -30,29 +30,24 @@ const breadcrumbsJsonLd = {
 export default function MelanomaStageMeaning() {
   return (
     <div className="min-h-screen bg-ivory">
-      import { AlertTriangle, FileText, Target, Heart } from 'lucide-react';
-import { Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
-
-const canonical = "https://www.beatingskincancer.com/melanoma/melanoma-stage-meaning";
-const title = "What Does My Melanoma Stage Mean? | Beating Skin Cancer";
-const description =
-  "Plain-language guide to melanoma staging (Stages 0–IV), how AJCC staging works, what it means for treatment and prognosis, and smart questions to ask your doctor.";
-
-// ...JSON blocks here...
-
-export default function MelanomaStageMeaning() {
-  return (
-    <div className="min-h-screen bg-ivory">
       <Helmet>
         <title>{title}</title>
         <meta name="description" content={description} />
         <link rel="canonical" href={canonical} />
-        {/* ...rest of Helmet... */}
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:url" content={canonical} />
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <script type="application/ld+json">
+          {JSON.stringify(articleJsonLd)}
+        </script>
+        <script type="application/ld+json">
+          {JSON.stringify(breadcrumbsJsonLd)}
+        </script>
       </Helmet>
-
-      <div className="bg-gradient-to-br from-navy to-slate py-20 pt-32">
-        {/* your original content continues here */}
 
       <div className="bg-gradient-to-br from-navy to-slate py-20 pt-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
