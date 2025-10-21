@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Melanoma from './pages/Melanoma';
 import MelanomaStageMeaning from './pages/MelanomaStageMeaning';
+import MelanomaTreatmentOptions from './pages/MelanomaTreatmentOptions';
 import SquamousCellCarcinoma from './pages/SquamousCellCarcinoma';
 import BasalCellCarcinoma from './pages/BasalCellCarcinoma';
 import ActinicKeratosis from './pages/ActinicKeratosis';
@@ -34,6 +35,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/melanoma" element={<Melanoma />} />
           <Route path="/melanoma/melanoma-stage-meaning" element={<MelanomaStageMeaning />} />
+          <Route path="/melanoma/melanoma-treatment-options" element={<MelanomaTreatmentOptions />} />
           <Route path="/squamous-cell-carcinoma" element={<SquamousCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
           <Route path="/actinic-keratosis" element={<ActinicKeratosis />} />
