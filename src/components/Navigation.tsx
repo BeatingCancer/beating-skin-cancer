@@ -67,6 +67,13 @@ export default function Navigation() {
                       <div className="font-medium">Actinic Keratosis</div>
                       <div className="text-sm text-slate/60">Precancerous lesions</div>
                     </Link>
+                    <Link
+                      to="/atypical-nevi"
+                      className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors"
+                    >
+                      <div className="font-medium">Atypical Nevi</div>
+                      <div className="text-sm text-slate/60">Unusual moles</div>
+                    </Link>
                   </div>
                 </div>
               )}
@@ -147,6 +154,14 @@ export default function Navigation() {
                 >
                   <div className="font-medium">Actinic Keratosis</div>
                   <div className="text-sm text-slate/60">Precancerous lesions</div>
+                </Link>
+                <Link
+                  to="/atypical-nevi"
+                  className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  <div className="font-medium">Atypical Nevi</div>
+                  <div className="text-sm text-slate/60">Unusual moles</div>
                 </Link>
               </div>
 

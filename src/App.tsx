@@ -9,6 +9,7 @@ import MelanomaTreatmentOptions from './pages/MelanomaTreatmentOptions';
 import SquamousCellCarcinoma from './pages/SquamousCellCarcinoma';
 import BasalCellCarcinoma from './pages/BasalCellCarcinoma';
 import ActinicKeratosis from './pages/ActinicKeratosis';
+import AtypicalNevi from './pages/AtypicalNevi';
 import Prevention from './pages/Prevention';
 import About from './pages/About';
 import SmartQuestions from './pages/SmartQuestions';
@@ -39,6 +40,7 @@ function App() {
           <Route path="/squamous-cell-carcinoma" element={<SquamousCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
           <Route path="/actinic-keratosis" element={<ActinicKeratosis />} />
+          <Route path="/atypical-nevi" element={<AtypicalNevi />} />
           <Route path="/prevention" element={<Prevention />} />
           <Route path="/about" element={<About />} />
           <Route path="/questions-to-ask" element={<SmartQuestions />} />
