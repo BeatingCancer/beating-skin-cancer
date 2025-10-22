@@ -34,6 +34,47 @@ export default function BasalCellCarcinoma() {
           </a>
         </div>
 
+        <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
+          <h2 className="text-3xl font-serif text-navy mb-6">Key Topics</h2>
+          <p className="text-slate/80 mb-6">
+            Explore these essential topics to better understand your basal cell carcinoma diagnosis and treatment:
+          </p>
+          <div className="space-y-3">
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
+              <div className="text-sm text-slate/70">Understanding your diagnosis and what happens next</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do doctors decide which type of BCC I have (superficial, nodular, morpheaform)?</div>
+              <div className="text-sm text-slate/70">Learn about the different subtypes and how they affect treatment</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What are the treatment options for basal cell carcinoma and how do I choose?</div>
+              <div className="text-sm text-slate/70">Compare surgical and non-surgical options to find what's right for you</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What should I expect during recovery after BCC surgery?</div>
+              <div className="text-sm text-slate/70">Timeline, wound care, and what's normal during healing</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">Can basal cell carcinoma come back after treatment — and how do I prevent it?</div>
+              <div className="text-sm text-slate/70">Understanding recurrence rates and prevention strategies</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What is the risk of BCC spreading or becoming serious?</div>
+              <div className="text-sm text-slate/70">Learn about BCC behavior and when to be more vigilant</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do I check my skin for basal cell carcinoma — and when should I see a doctor?</div>
+              <div className="text-sm text-slate/70">Self-examination tips and warning signs that need attention</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What lifestyle or skin-care habits help reduce the chance of another basal cell carcinoma?</div>
+              <div className="text-sm text-slate/70">Daily practices and prevention strategies for long-term skin health</div>
+            </div>
+          </div>
+        </div>
+
         <div className="bg-coral/5 rounded-2xl shadow-lg p-8 mb-8">
           <div className="flex items-start gap-4 mb-6">
             <AlertTriangle className="text-coral flex-shrink-0 mt-1" size={32} />
