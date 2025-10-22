@@ -34,6 +34,47 @@ export default function ActinicKeratosis() {
           </a>
         </div>
 
+        <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
+          <h2 className="text-3xl font-serif text-navy mb-6">Key Topics</h2>
+          <p className="text-slate/80 mb-6">
+            Explore these essential topics to better understand your actinic keratosis diagnosis and management:
+          </p>
+          <div className="space-y-3">
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What is an actinic keratosis and how is it different from skin cancer?</div>
+              <div className="text-sm text-slate/70">Understanding the precancerous nature of AKs and their relationship to cancer</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do I know whether an AK needs treatment now or can be watched safely?</div>
+              <div className="text-sm text-slate/70">When to treat versus monitor, and what factors influence the decision</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What are the treatment options for actinic keratoses and how do I pick the right one?</div>
+              <div className="text-sm text-slate/70">Comparing freezing, topical treatments, and other options for your situation</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What are the risks of leaving AK untreated — can it turn into skin cancer?</div>
+              <div className="text-sm text-slate/70">Understanding progression rates and why early treatment matters</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How often should I get skin exams when I have AKs?</div>
+              <div className="text-sm text-slate/70">Recommended monitoring schedules and when to see your dermatologist</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What skin-care and sun-protection habits help reduce new AKs?</div>
+              <div className="text-sm text-slate/70">Daily prevention strategies and lifestyle changes to protect your skin</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What do I do when I have many AKs — does the approach differ?</div>
+              <div className="text-sm text-slate/70">Field therapy options for widespread sun damage and multiple lesions</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do I talk to my doctor about managing AKs over time and monitoring changes?</div>
+              <div className="text-sm text-slate/70">Questions to ask and how to advocate for effective long-term care</div>
+            </div>
+          </div>
+        </div>
+
         <div className="bg-coral/5 rounded-2xl shadow-lg p-8 mb-8">
           <div className="flex items-start gap-4 mb-6">
             <AlertTriangle className="text-coral flex-shrink-0 mt-1" size={32} />
