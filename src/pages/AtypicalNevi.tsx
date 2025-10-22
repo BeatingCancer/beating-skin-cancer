@@ -34,6 +34,47 @@ export default function AtypicalNevi() {
           </a>
         </div>
 
+        <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
+          <h2 className="text-3xl font-serif text-navy mb-6">Key Topics</h2>
+          <p className="text-slate/80 mb-6">
+            Explore these essential topics to better understand atypical nevi and their monitoring:
+          </p>
+          <div className="space-y-3">
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What makes a mole "atypical," and how is it different from a normal mole?</div>
+              <div className="text-sm text-slate/70">Understanding the characteristics that distinguish dysplastic from common moles</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How can I tell if an atypical mole might be turning into melanoma?</div>
+              <div className="text-sm text-slate/70">Warning signs and changes that require immediate medical attention</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What does a dermatologist look for when examining atypical moles?</div>
+              <div className="text-sm text-slate/70">Understanding dermoscopy and professional evaluation techniques</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">When does an atypical mole need to be biopsied or removed?</div>
+              <div className="text-sm text-slate/70">Decision factors for observation versus intervention</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">If I have atypical moles, how often should I get my skin checked?</div>
+              <div className="text-sm text-slate/70">Recommended surveillance schedules based on your risk profile</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">Does having atypical moles mean I'm at higher risk for melanoma?</div>
+              <div className="text-sm text-slate/70">Understanding the relationship between atypical nevi and melanoma risk</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What's the best way to track changes in my moles over time?</div>
+              <div className="text-sm text-slate/70">Self-monitoring techniques, photography tips, and documentation strategies</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How can I protect my skin and prevent new atypical moles from forming?</div>
+              <div className="text-sm text-slate/70">Sun protection strategies and lifestyle modifications for prevention</div>
+            </div>
+          </div>
+        </div>
+
         <div className="bg-coral/5 rounded-2xl shadow-lg p-8 mb-8">
           <div className="flex items-start gap-4 mb-6">
             <AlertTriangle className="text-coral flex-shrink-0 mt-1" size={32} />
