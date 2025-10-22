@@ -36,7 +36,7 @@ export default function Melanoma() {
         </div>
 
         <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
-          <h2 className="text-3xl font-serif text-navy mb-6">Key Questions</h2>
+          <h2 className="text-3xl font-serif text-navy mb-6">Key Topics</h2>
           <p className="text-slate/80 mb-6">
             Explore these essential topics to better understand your melanoma diagnosis and treatment options:
           </p>
