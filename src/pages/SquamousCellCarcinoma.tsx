@@ -34,6 +34,47 @@ export default function SquamousCellCarcinoma() {
           </a>
         </div>
 
+        <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
+          <h2 className="text-3xl font-serif text-navy mb-6">Key Topics</h2>
+          <p className="text-slate/80 mb-6">
+            Explore these essential topics to better understand your squamous cell carcinoma diagnosis and treatment:
+          </p>
+          <div className="space-y-3">
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What are the early signs of squamous cell carcinoma and how is it different from other skin cancers?</div>
+              <div className="text-sm text-slate/70">Recognizing SCC characteristics and distinguishing it from BCC and melanoma</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do doctors grade or stage an SCC and why does that matter for treatment?</div>
+              <div className="text-sm text-slate/70">Understanding staging systems and how they guide treatment decisions</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What are the main treatment approaches for SCC, and what are the pros and cons of each?</div>
+              <div className="text-sm text-slate/70">Comparing surgical and non-surgical options to find the best approach</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What follow-up care is required after SCC treatment?</div>
+              <div className="text-sm text-slate/70">Monitoring schedules, skin checks, and long-term surveillance plans</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What increases the risk of SCC coming back or spreading to lymph nodes or other organs?</div>
+              <div className="text-sm text-slate/70">Understanding high-risk features and metastasis potential</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">How do I perform regular skin checks for SCC and what changes should alert me?</div>
+              <div className="text-sm text-slate/70">Self-examination techniques and warning signs requiring immediate attention</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">Are there special considerations for SCC in high-risk areas (ears, lips, fingers)?</div>
+              <div className="text-sm text-slate/70">Why location matters and specialized treatment approaches for challenging areas</div>
+            </div>
+            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+              <div className="font-semibold text-teal mb-1">What prevention steps and skin-care practices reduce my chance of getting another SCC?</div>
+              <div className="text-sm text-slate/70">Daily habits and lifestyle strategies for long-term prevention</div>
+            </div>
+          </div>
+        </div>
+
         <div className="bg-coral/5 rounded-2xl shadow-lg p-8 mb-8">
           <div className="flex items-start gap-4 mb-6">
             <AlertTriangle className="text-coral flex-shrink-0 mt-1" size={32} />
