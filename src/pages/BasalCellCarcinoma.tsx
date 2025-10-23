@@ -43,8 +43,7 @@ export default function BasalCellCarcinoma() {
             
           <Link
               to="/basal-cell-carcinoma/biopsy-meaning"
-              className="block p-4 bg-sky/5 rounded-lg border border-teal/10 hover:bg-sky/10 hover:border-teal/30 transition-colors cursor-pointer"
-            >
+              className="block p-4 bg-sky/5 rounded-lg border border-teal/10 hover:bg-sky/10 hover:border-teal/30 transition-colors cursor-pointer">
               <div className="font-semibold text-teal mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
               <div className="text-sm text-slate/70">Understanding your diagnosis and what happens next</div>
             </Link>
