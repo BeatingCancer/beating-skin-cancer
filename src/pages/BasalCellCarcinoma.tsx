@@ -1,5 +1,5 @@
 import { AlertTriangle, Eye, Shield, Activity } from 'lucide-react';
-
+import Link from 'next/link'; // or 'react-router-dom' if you are using React Router
 export default function BasalCellCarcinoma() {
   return (
     <div className="min-h-screen bg-ivory">
@@ -41,10 +41,10 @@ export default function BasalCellCarcinoma() {
           </p>
           <div className="space-y-3">
             
-          <Link to="/basal-cell-carcinoma/biopsy-meaning" className="block p-4 bg-sky-5 rounded-lg border border-teal-10 hover:border-teal-30 transition-colors cursor-pointer">
-  <div className="font-semibold text-teal-1 mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
-  <div className="text-sm text-slate-70">Understanding your diagnosis and what happens next</div>
-</Link>           
+         <Link href="/basal-cell-carcinoma/biopsy-meaning" className="block p-4 bg-sky-50 rounded-lg border border-teal-200 hover:border-teal-400 transition-colors cursor-pointer">
+  <div className="font-semibold text-teal-600 mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
+  <div className="text-sm text-slate-700">Understanding your diagnosis and what happens next</div>
+</Link>      
             
             </div>
             <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
