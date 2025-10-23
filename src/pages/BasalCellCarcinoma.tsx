@@ -41,7 +41,7 @@ export default function BasalCellCarcinoma() {
           </p>
           <div className="space-y-3">
             
-            <Link 
+          <Link
   to="/basal-cell-carcinoma/biopsy-meaning"
   className="block p-4 bg-sky/5 rounded-lg border border-teal/10 hover:bg-sky/10 hover:border-teal/30 transition-colors cursor-pointer"
 >
