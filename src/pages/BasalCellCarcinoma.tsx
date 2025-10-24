@@ -45,10 +45,10 @@ export default function BasalCellCarcinoma() {
               <div className="font-semibold text-teal mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
               <div className="text-sm text-slate/70">Understanding your diagnosis and what happens next</div>
             </Link>
-            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+            <Link to="/basal-cell-carcinoma/types" className="block p-4 bg-sky/5 rounded-lg border border-teal/10 hover:bg-sky/10 transition-colors">
               <div className="font-semibold text-teal mb-1">How do doctors decide which type of BCC I have (superficial, nodular, morpheaform)?</div>
               <div className="text-sm text-slate/70">Learn about the different subtypes and how they affect treatment</div>
-            </div>
+            </Link>
             <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
               <div className="font-semibold text-teal mb-1">What are the treatment options for basal cell carcinoma and how do I choose?</div>
               <div className="text-sm text-slate/70">Compare surgical and non-surgical options to find what's right for you</div>

@@ -9,6 +9,7 @@ import MelanomaTreatmentOptions from './pages/MelanomaTreatmentOptions';
 import SquamousCellCarcinoma from './pages/SquamousCellCarcinoma';
 import BasalCellCarcinoma from './pages/BasalCellCarcinoma';
 import BCCBiopsyMeaning from './pages/BCCBiopsyMeaning';
+import BCCTypes from './pages/BCCTypes';
 import ActinicKeratosis from './pages/ActinicKeratosis';
 import AtypicalNevi from './pages/AtypicalNevi';
 import Prevention from './pages/Prevention';
@@ -41,6 +42,7 @@ function App() {
           <Route path="/squamous-cell-carcinoma" element={<SquamousCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma/biopsy-meaning" element={<BCCBiopsyMeaning />} />
+          <Route path="/basal-cell-carcinoma/types" element={<BCCTypes />} />
         
           <Route path="/actinic-keratosis" element={<ActinicKeratosis />} />
           <Route path="/atypical-nevi" element={<AtypicalNevi />} />
