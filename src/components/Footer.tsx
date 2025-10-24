@@ -27,7 +27,10 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <button className="bg-teal text-white px-6 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-semibold mb-4 w-full">
+            <button
+              onClick={() => window.open('https://newsletter.beatingskincancer.com/hp/Rj20gf-NywoxZFOkP_ZuaQ/signup', '_blank', 'noopener,noreferrer')}
+              className="bg-teal text-white px-6 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-semibold mb-4 w-full"
+            >
               Subscribe Now
             </button>
             <p className="text-white font-semibold mb-2">Stay Informed. Stay Protected.</p>
