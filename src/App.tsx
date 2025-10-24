@@ -40,7 +40,7 @@ function App() {
           <Route path="/melanoma/melanoma-treatment-options" element={<MelanomaTreatmentOptions />} />
           <Route path="/squamous-cell-carcinoma" element={<SquamousCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
-          <Route path="/basal-cell-carcinoma/biopsy-meaning" element={<BCCBiopsyMeaning />} />
+          <Route path="/basal-cell-carcinoma/BCC-biopsy-meaning" element={<BCCBiopsyMeaning />} />
         
           <Route path="/actinic-keratosis" element={<ActinicKeratosis />} />
           <Route path="/atypical-nevi" element={<AtypicalNevi />} />
