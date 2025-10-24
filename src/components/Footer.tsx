@@ -7,8 +7,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-serif mb-4">BeatingSkinCancer.com</h3>
-            <p className="text-white/70">
+            <p className="text-white/70 mb-6">
               Your trusted resource for skin cancer information and AI-powered guidance.
+            </p>
+            <h4 className="font-semibold mb-3">Disclaimer</h4>
+            <p className="text-white/70 text-sm">
+              This website provides general information only and does not constitute medical advice.
+              Always consult with a qualified healthcare professional for diagnosis and treatment.
             </p>
           </div>
           <div>
@@ -22,10 +27,12 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h4 className="font-semibold mb-4">Disclaimer</h4>
+            <button className="bg-teal text-white px-6 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-semibold mb-4 w-full">
+              Subscribe Now
+            </button>
+            <p className="text-white font-semibold mb-2">Stay Informed. Stay Protected.</p>
             <p className="text-white/70 text-sm">
-              This website provides general information only and does not constitute medical advice.
-              Always consult with a qualified healthcare professional for diagnosis and treatment.
+              Get expert guidance on skin cancer prevention, treatment options, and the latest updates—all in plain language.
             </p>
           </div>
         </div>
