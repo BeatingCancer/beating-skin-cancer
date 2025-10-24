@@ -1,8 +1,12 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, FormEvent } from 'react';
 import { X } from 'lucide-react';
 
 export default function NewsletterPopup() {
   const [isVisible, setIsVisible] = useState(false);
+  const [email, setEmail] = useState('');
+  const [name, setName] = useState('');
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isSuccess, setIsSuccess] = useState(false);
   const STORAGE_KEY = 'newsletter_popup_dismissed';
 
   useEffect(() => {
@@ -36,6 +40,35 @@ export default function NewsletterPopup() {
     localStorage.setItem(STORAGE_KEY, 'true');
   };
 
+  const handleSubmit = async (e: FormEvent) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+
+    try {
+      const response = await fetch('https://newsletter.beatingskincancer.com/hp/Rj20gf-NywoxZFOkP_ZuaQ/signup', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: new URLSearchParams({
+          email: email,
+          name: name,
+        }),
+      });
+
+      if (response.ok) {
+        setIsSuccess(true);
+        setTimeout(() => {
+          handleClose();
+        }, 2000);
+      }
+    } catch (error) {
+      console.error('Newsletter signup error:', error);
+    } finally {
+      setIsSubmitting(false);
+    }
+  };
+
   if (!isVisible) {
     return null;
   }
@@ -59,18 +92,49 @@ export default function NewsletterPopup() {
             Get expert guidance on skin cancer prevention, treatment options, and the latest updates—all in plain language.
           </p>
 
-          <div className="mb-6">
-            <iframe
-              src="https://newsletter.beatingskincancer.com/hp/Rj20gf-NywoxZFOkP_ZuaQ/signup"
-              style={{
-                width: '100%',
-                borderWidth: '0px',
-                backgroundColor: '#ffffff',
-                height: '215px',
-              }}
-              title="Newsletter Signup"
-            />
-          </div>
+          {isSuccess ? (
+            <div className="mb-6 p-4 bg-teal/10 border border-teal/20 rounded-lg text-center">
+              <p className="text-teal font-medium">Thank you for subscribing!</p>
+            </div>
+          ) : (
+            <form onSubmit={handleSubmit} className="mb-6">
+              <div className="mb-4">
+                <label htmlFor="name" className="block text-sm font-medium text-slate mb-2">
+                  Name
+                </label>
+                <input
+                  type="text"
+                  id="name"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                  required
+                  className="w-full px-4 py-3 border border-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal/50 focus:border-teal transition-colors"
+                  placeholder="Your name"
+                />
+              </div>
+              <div className="mb-4">
+                <label htmlFor="email" className="block text-sm font-medium text-slate mb-2">
+                  Email
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  required
+                  className="w-full px-4 py-3 border border-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal/50 focus:border-teal transition-colors"
+                  placeholder="your@email.com"
+                />
+              </div>
+              <button
+                type="submit"
+                disabled={isSubmitting}
+                className="w-full bg-teal text-white px-6 py-3 rounded-lg hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {isSubmitting ? 'Subscribing...' : 'Subscribe'}
+              </button>
+            </form>
+          )}
 
           <button
             onClick={handleClose}
