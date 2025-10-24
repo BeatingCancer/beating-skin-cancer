@@ -22,7 +22,7 @@ export default function NewsletterPopup() {
       }
     };
 
-    timeoutId = window.setTimeout(showPopup, 3000);
+    timeoutId = window.setTimeout(showPopup, 5000);
 
     document.addEventListener('mouseout', handleExitIntent);
     exitIntentBound = true;
