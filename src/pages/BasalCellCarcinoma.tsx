@@ -1,4 +1,5 @@
 import { AlertTriangle, Eye, Shield, Activity } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export default function BasalCellCarcinoma() {
   return (
@@ -40,10 +41,10 @@ export default function BasalCellCarcinoma() {
             Explore these essential topics to better understand your basal cell carcinoma diagnosis and treatment:
           </p>
           <div className="space-y-3">
-            <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
+            <Link to="/bcc-biopsy-meaning" className="block p-4 bg-sky/5 rounded-lg border border-teal/10 hover:bg-sky/10 transition-colors">
               <div className="font-semibold text-teal mb-1">What does it mean if my biopsy says "basal cell carcinoma"?</div>
               <div className="text-sm text-slate/70">Understanding your diagnosis and what happens next</div>
-            </div>
+            </Link>
             <div className="block p-4 bg-sky/5 rounded-lg border border-teal/10">
               <div className="font-semibold text-teal mb-1">How do doctors decide which type of BCC I have (superficial, nodular, morpheaform)?</div>
               <div className="text-sm text-slate/70">Learn about the different subtypes and how they affect treatment</div>
