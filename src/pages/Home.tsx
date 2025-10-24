@@ -4,6 +4,7 @@ import CancerCards from '../components/CancerCards';
 import AIGuide from '../components/AIGuide';
 import Trust from '../components/Trust';
 import FinalCTA from '../components/FinalCTA';
+import NewsletterPopup from '../components/NewsletterPopup';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <AIGuide />
       <Trust />
       <FinalCTA />
+      <NewsletterPopup />
     </>
   );
 }
