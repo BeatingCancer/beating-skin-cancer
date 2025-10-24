@@ -6,11 +6,6 @@ export default function NewsletterPopup() {
   const [hasShown, setHasShown] = useState(false);
 
   useEffect(() => {
-    const dismissed = localStorage.getItem('newsletter-dismissed');
-    if (dismissed) {
-      return;
-    }
-
     let timeoutId: number;
     let exitIntentBound = false;
 
@@ -42,7 +37,6 @@ export default function NewsletterPopup() {
 
   const handleClose = () => {
     setIsVisible(false);
-    localStorage.setItem('newsletter-dismissed', 'true');
   };
 
   const handleOverlayClick = (e: React.MouseEvent<HTMLDivElement>) => {
