@@ -4,7 +4,8 @@ import { X } from 'lucide-react';
 export default function NewsletterPopup() {
   const [isVisible, setIsVisible] = useState(false);
   const [email, setEmail] = useState('');
-  const [name, setName] = useState('');
+  const [firstName, setFirstName] = useState('');
+  const [lastName, setLastName] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
   const STORAGE_KEY = 'newsletter_popup_dismissed';
@@ -52,7 +53,8 @@ export default function NewsletterPopup() {
         },
         body: new URLSearchParams({
           email: email,
-          name: name,
+          firstName: firstName,
+          lastName: lastName,
         }),
       });
 
@@ -98,19 +100,35 @@ export default function NewsletterPopup() {
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="mb-6">
-              <div className="mb-4">
-                <label htmlFor="name" className="block text-sm font-medium text-slate mb-2">
-                  Name
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  value={name}
-                  onChange={(e) => setName(e.target.value)}
-                  required
-                  className="w-full px-4 py-3 border border-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal/50 focus:border-teal transition-colors"
-                  placeholder="Your name"
-                />
+              <div className="grid grid-cols-2 gap-4 mb-4">
+                <div>
+                  <label htmlFor="firstName" className="block text-sm font-medium text-slate mb-2">
+                    First Name
+                  </label>
+                  <input
+                    type="text"
+                    id="firstName"
+                    value={firstName}
+                    onChange={(e) => setFirstName(e.target.value)}
+                    required
+                    className="w-full px-4 py-3 border border-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal/50 focus:border-teal transition-colors"
+                    placeholder="First name"
+                  />
+                </div>
+                <div>
+                  <label htmlFor="lastName" className="block text-sm font-medium text-slate mb-2">
+                    Last Name
+                  </label>
+                  <input
+                    type="text"
+                    id="lastName"
+                    value={lastName}
+                    onChange={(e) => setLastName(e.target.value)}
+                    required
+                    className="w-full px-4 py-3 border border-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal/50 focus:border-teal transition-colors"
+                    placeholder="Last name"
+                  />
+                </div>
               </div>
               <div className="mb-4">
                 <label htmlFor="email" className="block text-sm font-medium text-slate mb-2">
