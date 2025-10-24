@@ -51,6 +51,11 @@ export default function NewsletterPopup() {
     }
   };
 
+  const handleSubscribe = () => {
+    window.open('https://newsletter.beatingskincancer.com/hp/Rj20gf-NywoxZFOkP_ZuaQ/signup', '_blank', 'noopener,noreferrer');
+    handleClose();
+  };
+
   if (!isVisible) {
     return null;
   }
@@ -79,14 +84,12 @@ export default function NewsletterPopup() {
             </p>
           </div>
 
-          <div className="mb-4">
-            <iframe
-              src="https://newsletter.beatingskincancer.com/hp/Rj20gf-NywoxZFOkP_ZuaQ/signup"
-              className="w-full border-0 bg-white"
-              style={{ height: '250px' }}
-              title="Newsletter signup"
-            />
-          </div>
+          <button
+            onClick={handleSubscribe}
+            className="w-full bg-navy text-white font-semibold py-3 px-6 rounded-lg hover:bg-teal transition-colors mb-4"
+          >
+            Subscribe Now
+          </button>
 
           <button
             onClick={handleClose}
