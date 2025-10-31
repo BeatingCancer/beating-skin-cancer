@@ -16,7 +16,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 bg-teal text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl"
