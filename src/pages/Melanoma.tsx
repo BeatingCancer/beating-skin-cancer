@@ -24,7 +24,7 @@ export default function Melanoma() {
 
         <div className="bg-gradient-to-br from-navy to-slate rounded-2xl shadow-lg p-8 text-center mb-8">
           <h3 className="text-2xl font-serif text-white mb-4">Need More Information?</h3>
-          <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about melanoma</p>
+          <p className="text-white/80 mb-6">Ask questions and get clear, trusted answers — instantly</p>
           <a
             href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
             target="_blank"
@@ -243,7 +243,7 @@ export default function Melanoma() {
 
         <div className="mt-12 bg-gradient-to-br from-navy to-slate rounded-2xl shadow-lg p-8 text-center">
           <h3 className="text-2xl font-serif text-white mb-4">Need More Information?</h3>
-          <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about melanoma</p>
+          <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about melanoma.</p>
           <a
             href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
             target="_blank"
