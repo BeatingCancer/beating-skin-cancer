@@ -121,7 +121,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20doctors%20pay%20so%20much%20attention%20to%20how%20deep%20a%20melanoma%20is%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20do%20doctors%20pay%20so%20much%20attention%20to%20how%20deep%20a%20melanoma%20is%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -131,7 +131,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22stage%201%20vs%20stage%203%22%20mean%20in%20plain%20language%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20%22stage%201%20vs%20stage%203%22%20mean%20in%20plain%20language%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -141,7 +141,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Where%20in%20the%20skin%20does%20melanoma%20start%2C%20and%20why%20can%20it%20sometimes%20spread%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Where%20in%20the%20skin%20does%20melanoma%20start%2C%20and%20why%20can%20it%20sometimes%20spread%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -151,7 +151,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20common%20is%20melanoma%2C%20and%20what%20are%20the%20main%20causes%20or%20risk%20factors%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20common%20is%20melanoma%2C%20and%20what%20are%20the%20main%20causes%20or%20risk%20factors%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -161,7 +161,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=After%20a%20biopsy%20confirms%20melanoma%2C%20what%20usually%20happens%20next%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=After%20a%20biopsy%20confirms%20melanoma%2C%20what%20usually%20happens%20next%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -171,7 +171,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Who%20are%20the%20typical%20specialists%20involved%20%E2%80%94%20and%20what%20does%20each%20one%20do%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Who%20are%20the%20typical%20specialists%20involved%20%E2%80%94%20and%20what%20does%20each%20one%20do%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -181,7 +181,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20whether%20to%20order%20more%20tests%20or%20imaging%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20whether%20to%20order%20more%20tests%20or%20imaging%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -191,7 +191,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20the%20phrase%20%22clear%20margins%22%20mean%20after%20surgery%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20the%20phrase%20%22clear%20margins%22%20mean%20after%20surgery%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -201,7 +201,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20soon%20does%20treatment%20usually%20begin%2C%20and%20what%20factors%20affect%20timing%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20soon%20does%20treatment%20usually%20begin%2C%20and%20what%20factors%20affect%20timing%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -211,7 +211,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20main%20treatment%20options%20for%20early%20melanoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20main%20treatment%20options%20for%20early%20melanoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -221,7 +221,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20wide%20local%20excision%20and%20Mohs%20surgery%20for%20melanoma%20in%20situ%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20difference%20between%20wide%20local%20excision%20and%20Mohs%20surgery%20for%20melanoma%20in%20situ%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -231,7 +231,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20if%20a%20sentinel%20lymph%20node%20biopsy%20is%20needed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20if%20a%20sentinel%20lymph%20node%20biopsy%20is%20needed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -241,7 +241,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20goals%20of%20immunotherapy%20and%20targeted%20therapy%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20goals%20of%20immunotherapy%20and%20targeted%20therapy%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -251,7 +251,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20side%20effects%20from%20these%20treatments%20usually%20feel%20for%20patients%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20side%20effects%20from%20these%20treatments%20usually%20feel%20for%20patients%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -261,7 +261,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20manage%20the%20stress%20or%20fear%20that%20comes%20with%20a%20melanoma%20diagnosis%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20manage%20the%20stress%20or%20fear%20that%20comes%20with%20a%20melanoma%20diagnosis%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -271,7 +271,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20most%20people%20explain%20melanoma%20to%20their%20family%20or%20children%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20most%20people%20explain%20melanoma%20to%20their%20family%20or%20children%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -281,7 +281,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20I%20expect%20during%20recovery%20from%20surgery%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20can%20I%20expect%20during%20recovery%20from%20surgery%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -291,7 +291,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20questions%20I%20should%20ask%20about%20scarring%20and%20healing%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20questions%20I%20should%20ask%20about%20scarring%20and%20healing%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -301,7 +301,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20organized%20with%20appointments%20and%20test%20results%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20stay%20organized%20with%20appointments%20and%20test%20results%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -311,7 +311,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20smart%20questions%20to%20ask%20at%20my%20first%20oncology%20or%20surgery%20visit%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20smart%20questions%20to%20ask%20at%20my%20first%20oncology%20or%20surgery%20visit%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -321,7 +321,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20information%20should%20I%20bring%20to%20help%20my%20doctor%20make%20the%20best%20plan%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20information%20should%20I%20bring%20to%20help%20my%20doctor%20make%20the%20best%20plan%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -331,7 +331,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20make%20sure%20I%20understand%20my%20pathology%20report%20when%20it%27s%20explained%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20make%20sure%20I%20understand%20my%20pathology%20report%20when%20it%27s%20explained%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -341,7 +341,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20pros%20and%20cons%20of%20getting%20a%20second%20opinion%20at%20a%20melanoma%20center%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20pros%20and%20cons%20of%20getting%20a%20second%20opinion%20at%20a%20melanoma%20center%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -351,7 +351,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20take%20notes%20or%20record%20my%20visit%20so%20I%20don%27t%20miss%20important%20details%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20take%20notes%20or%20record%20my%20visit%20so%20I%20don%27t%20miss%20important%20details%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -386,7 +386,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20a%20typical%20follow-up%20schedule%20after%20melanoma%20treatment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20a%20typical%20follow-up%20schedule%20after%20melanoma%20treatment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -396,7 +396,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20the%20risk%20of%20recurrence%20change%20over%20time%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20the%20risk%20of%20recurrence%20change%20over%20time%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -406,7 +406,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20kinds%20of%20checkups%20or%20imaging%20are%20done%20for%20different%20stages%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20kinds%20of%20checkups%20or%20imaging%20are%20done%20for%20different%20stages%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -416,7 +416,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20common%20signs%20of%20melanoma%20coming%20back%20in%20the%20skin%20or%20lymph%20nodes%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20common%20signs%20of%20melanoma%20coming%20back%20in%20the%20skin%20or%20lymph%20nodes%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -426,7 +426,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20a%20new%20melanoma%20and%20a%20recurrence%20of%20the%20old%20one%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20difference%20between%20a%20new%20melanoma%20and%20a%20recurrence%20of%20the%20old%20one%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -436,7 +436,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20perform%20a%20useful%20self-skin%20exam%20each%20month%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20perform%20a%20useful%20self-skin%20exam%20each%20month%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -446,7 +446,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20look%20for%20around%20my%20surgical%20scar%20or%20lymph-node%20area%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20look%20for%20around%20my%20surgical%20scar%20or%20lymph-node%20area%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -456,7 +456,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20mole-mapping%20apps%20or%20total-body%20photos%20worth%20using%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20mole-mapping%20apps%20or%20total-body%20photos%20worth%20using%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -466,7 +466,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20tell%20when%20a%20mole%20looks%20%22different%20enough%22%20to%20get%20checked%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20tell%20when%20a%20mole%20looks%20%22different%20enough%22%20to%20get%20checked%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -476,7 +476,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20should%20I%20call%20the%20doctor%20versus%20wait%20for%20my%20next%20visit%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20should%20I%20call%20the%20doctor%20versus%20wait%20for%20my%20next%20visit%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -486,7 +486,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20daily%20habits%20lower%20the%20chance%20of%20getting%20another%20melanoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20daily%20habits%20lower%20the%20chance%20of%20getting%20another%20melanoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -496,7 +496,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20SPF%2C%20shade%2C%20and%20clothing%20work%20together%20to%20protect%20me%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20SPF%2C%20shade%2C%20and%20clothing%20work%20together%20to%20protect%20me%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -506,7 +506,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Is%20it%20safe%20to%20get%20some%20sun%20for%20vitamin%20D%20if%20I%27ve%20had%20melanoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Is%20it%20safe%20to%20get%20some%20sun%20for%20vitamin%20D%20if%20I%27ve%20had%20melanoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -516,7 +516,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20nicotinamide%2C%20and%20how%20does%20it%20help%20prevent%20future%20skin%20cancers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20nicotinamide%2C%20and%20how%20does%20it%20help%20prevent%20future%20skin%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -526,7 +526,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20medications%20or%20immune%20conditions%20change%20my%20skin-cancer%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20medications%20or%20immune%20conditions%20change%20my%20skin-cancer%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -536,7 +536,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20people%20cope%20with%20the%20fear%20of%20recurrence%20over%20the%20years%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20people%20cope%20with%20the%20fear%20of%20recurrence%20over%20the%20years%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -546,7 +546,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20healthy%20ways%20to%20balance%20vigilance%20with%20peace%20of%20mind%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20healthy%20ways%20to%20balance%20vigilance%20with%20peace%20of%20mind%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -556,7 +556,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20support%20groups%20or%20online%20communities%20for%20melanoma%20survivors%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20support%20groups%20or%20online%20communities%20for%20melanoma%20survivors%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -566,7 +566,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20talk%20about%20my%20experience%20without%20feeling%20defined%20by%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20talk%20about%20my%20experience%20without%20feeling%20defined%20by%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -576,7 +576,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20small%20milestones%20should%20I%20celebrate%20after%20treatment%20ends%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20small%20milestones%20should%20I%20celebrate%20after%20treatment%20ends%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -586,7 +586,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20new%20treatments%20or%20clinical%20trials%20are%20changing%20melanoma%20care%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20new%20treatments%20or%20clinical%20trials%20are%20changing%20melanoma%20care%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -596,7 +596,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20genetic%20testing%20for%20melanoma%20risk%20work%2C%20and%20who%20benefits%20from%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20genetic%20testing%20for%20melanoma%20risk%20work%2C%20and%20who%20benefits%20from%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -606,7 +606,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20my%20family%20do%20to%20get%20screened%20or%20reduce%20their%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20can%20my%20family%20do%20to%20get%20screened%20or%20reduce%20their%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -616,7 +616,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20technology%20(AI%20skin%20scans%2C%20teledermatology)%20fit%20into%20follow-up%20care%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20technology%20(AI%20skin%20scans%2C%20teledermatology)%20fit%20into%20follow-up%20care%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -626,7 +626,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20educated%20about%20melanoma%20without%20feeling%20overwhelmed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20stay%20educated%20about%20melanoma%20without%20feeling%20overwhelmed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -661,7 +661,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20exactly%20is%20basal%20cell%20carcinoma%2C%20and%20how%20is%20it%20different%20from%20other%20types%20of%20skin%20cancer%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20exactly%20is%20basal%20cell%20carcinoma%2C%20and%20how%20is%20it%20different%20from%20other%20types%20of%20skin%20cancer%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -671,7 +671,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20doctors%20say%20it%20grows%20slowly%20%E2%80%94%20does%20that%20mean%20I%20shouldn%27t%20worry%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20do%20doctors%20say%20it%20grows%20slowly%20%E2%80%94%20does%20that%20mean%20I%20shouldn%27t%20worry%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -681,7 +681,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20it%20mean%20when%20they%20say%20it%20%22almost%20never%20spreads%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20it%20mean%20when%20they%20say%20it%20%22almost%20never%20spreads%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -691,7 +691,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20different%20kinds%20of%20basal%20cell%20carcinoma%2C%20and%20how%20do%20they%20behave%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20different%20kinds%20of%20basal%20cell%20carcinoma%2C%20and%20how%20do%20they%20behave%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -701,7 +701,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20confirm%20that%20a%20spot%20is%20a%20basal%20cell%20%E2%80%94%20is%20biopsy%20always%20needed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20confirm%20that%20a%20spot%20is%20a%20basal%20cell%20%E2%80%94%20is%20biopsy%20always%20needed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -711,7 +711,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=After%20being%20told%20I%20have%20basal%20cell%20carcinoma%2C%20what%20are%20the%20typical%20next%20steps%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=After%20being%20told%20I%20have%20basal%20cell%20carcinoma%2C%20what%20are%20the%20typical%20next%20steps%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -721,7 +721,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20whether%20surgery%2C%20scraping%2C%20freezing%2C%20or%20cream%20treatment%20is%20best%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20whether%20surgery%2C%20scraping%2C%20freezing%2C%20or%20cream%20treatment%20is%20best%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -731,7 +731,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20it%20mean%20when%20they%20talk%20about%20%22low-risk%22%20or%20%22high-risk%22%20basal%20cell%20cancers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20it%20mean%20when%20they%20talk%20about%20%22low-risk%22%20or%20%22high-risk%22%20basal%20cell%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -741,7 +741,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20the%20difference%20between%20%22clear%20margins%22%20and%20%22positive%20margins%22%20on%20a%20report%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20the%20difference%20between%20%22clear%20margins%22%20and%20%22positive%20margins%22%20on%20a%20report%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -751,7 +751,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20doctors%20sometimes%20recommend%20Mohs%20surgery%20instead%20of%20a%20regular%20excision%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20do%20doctors%20sometimes%20recommend%20Mohs%20surgery%20instead%20of%20a%20regular%20excision%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -761,7 +761,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20happens%20during%20Mohs%20surgery%2C%20and%20how%20long%20does%20it%20usually%20take%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20happens%20during%20Mohs%20surgery%2C%20and%20how%20long%20does%20it%20usually%20take%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -771,7 +771,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20pros%20and%20cons%20of%20topical%20treatments%20like%20imiquimod%20or%205-FU%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20pros%20and%20cons%20of%20topical%20treatments%20like%20imiquimod%20or%205-FU%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -781,7 +781,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20effective%20is%20freezing%20(cryotherapy)%20or%20scraping%20and%20burning%20(ED%26C)%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20effective%20is%20freezing%20(cryotherapy)%20or%20scraping%20and%20burning%20(ED%26C)%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -791,7 +791,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20would%20radiation%20be%20used%20for%20basal%20cell%20carcinoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20would%20radiation%20be%20used%20for%20basal%20cell%20carcinoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -801,7 +801,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20%22hedgehog%20inhibitors%2C%22%20and%20who%20might%20need%20those%20medicines%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20%22hedgehog%20inhibitors%2C%22%20and%20who%20might%20need%20those%20medicines%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -811,7 +811,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20calm%20while%20waiting%20for%20my%20procedure%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20stay%20calm%20while%20waiting%20for%20my%20procedure%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -821,7 +821,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20recovery%20usually%20look%20like%20for%20small%20vs.%20large%20basal%20cell%20removals%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20recovery%20usually%20look%20like%20for%20small%20vs.%20large%20basal%20cell%20removals%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -831,7 +831,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20talk%20to%20my%20doctor%20about%20scarring%20or%20cosmetic%20concerns%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20talk%20to%20my%20doctor%20about%20scarring%20or%20cosmetic%20concerns%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -841,7 +841,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Is%20it%20okay%20to%20ask%20about%20second%20opinions%20or%20treatment%20alternatives%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Is%20it%20okay%20to%20ask%20about%20second%20opinions%20or%20treatment%20alternatives%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -851,7 +851,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20follow-up%20care%20look%20like%20after%20treatment%20%E2%80%94%20is%20it%20lifelong%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20follow-up%20care%20look%20like%20after%20treatment%20%E2%80%94%20is%20it%20lifelong%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -861,7 +861,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20questions%20should%20I%20ask%20before%20agreeing%20to%20a%20specific%20treatment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20questions%20should%20I%20ask%20before%20agreeing%20to%20a%20specific%20treatment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -871,7 +871,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20make%20sure%20I%20understand%20what%27s%20written%20in%20my%20pathology%20report%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20make%20sure%20I%20understand%20what%27s%20written%20in%20my%20pathology%20report%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -881,7 +881,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20expect%20in%20the%20days%20right%20after%20surgery%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20expect%20in%20the%20days%20right%20after%20surgery%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -891,7 +891,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20know%20if%20my%20wound%20is%20healing%20normally%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20know%20if%20my%20wound%20is%20healing%20normally%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -901,7 +901,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20ask%20about%20protecting%20the%20treated%20area%20from%20the%20sun%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20ask%20about%20protecting%20the%20treated%20area%20from%20the%20sun%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -936,7 +936,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20often%20should%20I%20see%20my%20dermatologist%20now%20that%20I%27ve%20had%20basal%20cell%20cancer%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20often%20should%20I%20see%20my%20dermatologist%20now%20that%20I%27ve%20had%20basal%20cell%20cancer%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -946,7 +946,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22recurrence%22%20mean%2C%20and%20how%20can%20I%20tell%20if%20one%20is%20coming%20back%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20%22recurrence%22%20mean%2C%20and%20how%20can%20I%20tell%20if%20one%20is%20coming%20back%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -956,7 +956,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Where%20on%20the%20body%20are%20recurrences%20most%20likely%20to%20appear%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Where%20on%20the%20body%20are%20recurrences%20most%20likely%20to%20appear%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -966,7 +966,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20some%20people%20develop%20many%20basal%20cell%20cancers%20over%20time%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20do%20some%20people%20develop%20many%20basal%20cell%20cancers%20over%20time%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -976,7 +976,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20if%20follow-up%20imaging%20or%20biopsy%20is%20needed%20again%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20if%20follow-up%20imaging%20or%20biopsy%20is%20needed%20again%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -986,7 +986,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20best%20way%20to%20check%20my%20skin%20at%20home%20after%20treatment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20best%20way%20to%20check%20my%20skin%20at%20home%20after%20treatment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -996,7 +996,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20tell%20the%20difference%20between%20a%20new%20basal%20cell%20and%20a%20healing%20scar%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20tell%20the%20difference%20between%20a%20new%20basal%20cell%20and%20a%20healing%20scar%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1006,7 +1006,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Should%20I%20take%20photos%20of%20my%20skin%20or%20use%20an%20app%20to%20track%20changes%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Should%20I%20take%20photos%20of%20my%20skin%20or%20use%20an%20app%20to%20track%20changes%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1016,7 +1016,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20look%20for%20around%20surgical%20scars%20or%20graft%20sites%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20look%20for%20around%20surgical%20scars%20or%20graft%20sites%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1026,7 +1026,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20know%20when%20to%20schedule%20an%20earlier%20appointment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20know%20when%20to%20schedule%20an%20earlier%20appointment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1036,7 +1036,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20daily%20habits%20reduce%20my%20risk%20of%20another%20basal%20cell%20cancer%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20daily%20habits%20reduce%20my%20risk%20of%20another%20basal%20cell%20cancer%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1046,7 +1046,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20much%20does%20sunscreen%20really%20help%2C%20and%20what%20kind%20should%20I%20use%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20much%20does%20sunscreen%20really%20help%2C%20and%20what%20kind%20should%20I%20use%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1056,7 +1056,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20taking%20nicotinamide%20actually%20lower%20the%20risk%20of%20new%20skin%20cancers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20taking%20nicotinamide%20actually%20lower%20the%20risk%20of%20new%20skin%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1066,7 +1066,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20important%20is%20wearing%20hats%20or%20sun-protective%20clothing%20every%20day%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20important%20is%20wearing%20hats%20or%20sun-protective%20clothing%20every%20day%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1076,7 +1076,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20any%20lifestyle%20or%20diet%20changes%20that%20can%20make%20my%20skin%20healthier%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20any%20lifestyle%20or%20diet%20changes%20that%20can%20make%20my%20skin%20healthier%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1086,7 +1086,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20people%20cope%20with%20feeling%20self-conscious%20about%20facial%20scars%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20people%20cope%20with%20feeling%20self-conscious%20about%20facial%20scars%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1096,7 +1096,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20explain%20repeated%20skin%20cancer%20treatments%20to%20family%20or%20coworkers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20explain%20repeated%20skin%20cancer%20treatments%20to%20family%20or%20coworkers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1106,7 +1106,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20a%20healthy%20way%20to%20manage%20fear%20about%20%22what%20if%20it%20comes%20back%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20a%20healthy%20way%20to%20manage%20fear%20about%20%22what%20if%20it%20comes%20back%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1116,7 +1116,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20rebuild%20confidence%20after%20having%20visible%20surgeries%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20rebuild%20confidence%20after%20having%20visible%20surgeries%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1126,7 +1126,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20do%20other%20survivors%20say%20helped%20them%20feel%20normal%20again%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20do%20other%20survivors%20say%20helped%20them%20feel%20normal%20again%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1136,7 +1136,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20new%20treatments%20or%20prevention%20methods%20are%20being%20researched%20for%20BCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20new%20treatments%20or%20prevention%20methods%20are%20being%20researched%20for%20BCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1146,7 +1146,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20genetics%20play%20a%20role%20in%20people%20who%20keep%20getting%20basal%20cells%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20genetics%20play%20a%20role%20in%20people%20who%20keep%20getting%20basal%20cells%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1156,7 +1156,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20Gorlin%20syndrome%2C%20and%20how%20do%20doctors%20recognize%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20Gorlin%20syndrome%2C%20and%20how%20do%20doctors%20recognize%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1166,7 +1166,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20studies%20or%20clinical%20trials%20for%20people%20with%20multiple%20basal%20cell%20cancers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20studies%20or%20clinical%20trials%20for%20people%20with%20multiple%20basal%20cell%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1176,7 +1176,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20keep%20learning%20about%20skin%20cancer%20safely%20without%20getting%20overwhelmed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20keep%20learning%20about%20skin%20cancer%20safely%20without%20getting%20overwhelmed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1211,7 +1211,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20squamous%20cell%20carcinoma%2C%20and%20how%20is%20it%20different%20from%20basal%20cell%20and%20melanoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20squamous%20cell%20carcinoma%2C%20and%20how%20is%20it%20different%20from%20basal%20cell%20and%20melanoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1221,7 +1221,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20do%20doctors%20sometimes%20call%20SCC%20%22more%20aggressive%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20do%20doctors%20sometimes%20call%20SCC%20%22more%20aggressive%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1231,7 +1231,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20squamous%20cell%20always%20come%20from%20sun%20damage%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20squamous%20cell%20always%20come%20from%20sun%20damage%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1241,7 +1241,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20common%20warning%20signs%20that%20a%20spot%20might%20be%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20common%20warning%20signs%20that%20a%20spot%20might%20be%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1251,7 +1251,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20it%20mean%20if%20the%20pathology%20report%20says%20%22well-differentiated%22%20or%20%22poorly%20differentiated%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20it%20mean%20if%20the%20pathology%20report%20says%20%22well-differentiated%22%20or%20%22poorly%20differentiated%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1261,7 +1261,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=After%20a%20biopsy%20confirms%20SCC%2C%20what%20are%20the%20next%20steps%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=After%20a%20biopsy%20confirms%20SCC%2C%20what%20are%20the%20next%20steps%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1271,7 +1271,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Who%20are%20the%20specialists%20usually%20involved%20in%20SCC%20care%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Who%20are%20the%20specialists%20usually%20involved%20in%20SCC%20care%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1281,7 +1281,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20whether%20the%20tumor%20is%20%22low-risk%22%20or%20%22high-risk%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20whether%20the%20tumor%20is%20%22low-risk%22%20or%20%22high-risk%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1291,7 +1291,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20might%20a%20doctor%20order%20an%20MRI%20or%20CT%20scan%20for%20skin%20cancer%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20might%20a%20doctor%20order%20an%20MRI%20or%20CT%20scan%20for%20skin%20cancer%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1301,7 +1301,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20do%20doctors%20recommend%20Mohs%20surgery%20for%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20do%20doctors%20recommend%20Mohs%20surgery%20for%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1311,7 +1311,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20main%20treatment%20options%20for%20SCC%2C%20and%20how%20do%20they%20differ%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20main%20treatment%20options%20for%20SCC%2C%20and%20how%20do%20they%20differ%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1321,7 +1321,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20Mohs%20surgery%20work%2C%20and%20why%20is%20it%20often%20used%20for%20high-risk%20areas%20like%20the%20ear%20or%20lip%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20Mohs%20surgery%20work%2C%20and%20why%20is%20it%20often%20used%20for%20high-risk%20areas%20like%20the%20ear%20or%20lip%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1331,7 +1331,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20the%20difference%20between%20standard%20excision%20and%20radiation%20therapy%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20the%20difference%20between%20standard%20excision%20and%20radiation%20therapy%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1341,7 +1341,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20would%20a%20lymph-node%20evaluation%20or%20biopsy%20be%20needed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20would%20a%20lymph-node%20evaluation%20or%20biopsy%20be%20needed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1351,7 +1351,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22perineural%20invasion%22%20mean%2C%20and%20how%20does%20it%20change%20treatment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20%22perineural%20invasion%22%20mean%2C%20and%20how%20does%20it%20change%20treatment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1361,7 +1361,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20calm%20while%20waiting%20for%20my%20surgery%20or%20results%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20stay%20calm%20while%20waiting%20for%20my%20surgery%20or%20results%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1371,7 +1371,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20expect%20during%20recovery%20after%20surgery%20on%20the%20face%20or%20scalp%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20expect%20during%20recovery%20after%20surgery%20on%20the%20face%20or%20scalp%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1381,7 +1381,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20people%20handle%20concerns%20about%20scarring%20or%20appearance%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20people%20handle%20concerns%20about%20scarring%20or%20appearance%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1391,7 +1391,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Is%20it%20normal%20to%20feel%20afraid%20that%20it%20might%20spread%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Is%20it%20normal%20to%20feel%20afraid%20that%20it%20might%20spread%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1401,7 +1401,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20talk%20to%20my%20family%20about%20this%20without%20causing%20alarm%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20talk%20to%20my%20family%20about%20this%20without%20causing%20alarm%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1411,7 +1411,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20questions%20should%20I%20ask%20about%20the%20size%2C%20depth%2C%20and%20grade%20of%20my%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20questions%20should%20I%20ask%20about%20the%20size%2C%20depth%2C%20and%20grade%20of%20my%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1421,7 +1421,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20know%20about%20margin%20status%20in%20my%20pathology%20report%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20know%20about%20margin%20status%20in%20my%20pathology%20report%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1431,7 +1431,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20prepare%20for%20my%20post-operative%20appointment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20prepare%20for%20my%20post-operative%20appointment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1441,7 +1441,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20is%20it%20reasonable%20to%20seek%20a%20second%20opinion%20for%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20is%20it%20reasonable%20to%20seek%20a%20second%20opinion%20for%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1451,7 +1451,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20I%20do%20to%20make%20sure%20I%20understand%20all%20of%20my%20options%20clearly%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20can%20I%20do%20to%20make%20sure%20I%20understand%20all%20of%20my%20options%20clearly%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1486,7 +1486,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20often%20should%20I%20see%20my%20dermatologist%20now%20that%20I%27ve%20had%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20often%20should%20I%20see%20my%20dermatologist%20now%20that%20I%27ve%20had%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1496,7 +1496,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22recurrence%22%20mean%20for%20SCC%2C%20and%20where%20does%20it%20usually%20show%20up%20first%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20%22recurrence%22%20mean%20for%20SCC%2C%20and%20where%20does%20it%20usually%20show%20up%20first%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1506,7 +1506,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20having%20multiple%20SCCs%20change%20my%20follow-up%20schedule%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20having%20multiple%20SCCs%20change%20my%20follow-up%20schedule%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1516,7 +1516,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20warning%20signs%20that%20SCC%20may%20have%20spread%20to%20a%20lymph%20node%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20warning%20signs%20that%20SCC%20may%20have%20spread%20to%20a%20lymph%20node%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1526,7 +1526,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20is%20SCC%20near%20the%20ear%2C%20lip%2C%20or%20scalp%20considered%20higher%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20is%20SCC%20near%20the%20ear%2C%20lip%2C%20or%20scalp%20considered%20higher%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1536,7 +1536,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20check%20for%20new%20or%20recurring%20SCCs%20on%20my%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20check%20for%20new%20or%20recurring%20SCCs%20on%20my%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1546,7 +1546,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20%22field%20cancerization%22%20mean%2C%20and%20how%20does%20it%20affect%20my%20care%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20%22field%20cancerization%22%20mean%2C%20and%20how%20does%20it%20affect%20my%20care%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1556,7 +1556,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20apps%20or%20photo%20methods%20to%20help%20me%20track%20new%20spots%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20apps%20or%20photo%20methods%20to%20help%20me%20track%20new%20spots%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1566,7 +1566,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20know%20when%20a%20rough%20patch%20or%20scar%20should%20be%20checked%20again%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20know%20when%20a%20rough%20patch%20or%20scar%20should%20be%20checked%20again%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1576,7 +1576,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20look%20for%20if%20I%20had%20SCC%20in%20a%20radiation%20field%20or%20old%20scar%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20look%20for%20if%20I%20had%20SCC%20in%20a%20radiation%20field%20or%20old%20scar%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1586,7 +1586,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20reduce%20my%20risk%20of%20getting%20another%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20reduce%20my%20risk%20of%20getting%20another%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1596,7 +1596,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20kind%20of%20sunscreen%20routine%20is%20most%20important%20for%20SCC%20prevention%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20kind%20of%20sunscreen%20routine%20is%20most%20important%20for%20SCC%20prevention%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1606,7 +1606,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20taking%20nicotinamide%20help%20lower%20SCC%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20taking%20nicotinamide%20help%20lower%20SCC%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1616,7 +1616,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20immunosuppression%20(from%20transplants%20or%20medications)%20increase%20SCC%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20immunosuppression%20(from%20transplants%20or%20medications)%20increase%20SCC%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1626,7 +1626,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20specific%20vitamins%20or%20lifestyle%20changes%20that%20might%20help%20my%20skin%20heal%20better%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20specific%20vitamins%20or%20lifestyle%20changes%20that%20might%20help%20my%20skin%20heal%20better%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1636,7 +1636,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20cope%20with%20the%20stress%20of%20frequent%20skin%20checks%20and%20procedures%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20cope%20with%20the%20stress%20of%20frequent%20skin%20checks%20and%20procedures%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1646,7 +1646,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20people%20stay%20positive%20when%20new%20SCCs%20keep%20appearing%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20people%20stay%20positive%20when%20new%20SCCs%20keep%20appearing%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1656,7 +1656,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20good%20ways%20to%20explain%20to%20family%20that%20SCC%20is%20treatable%20but%20requires%20attention%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20good%20ways%20to%20explain%20to%20family%20that%20SCC%20is%20treatable%20but%20requires%20attention%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1666,7 +1666,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20take%20care%20of%20my%20skin%20without%20feeling%20anxious%20about%20every%20spot%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20take%20care%20of%20my%20skin%20without%20feeling%20anxious%20about%20every%20spot%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1676,7 +1676,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20resources%20exist%20for%20patients%20who%20have%20many%20SCCs%20each%20year%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20resources%20exist%20for%20patients%20who%20have%20many%20SCCs%20each%20year%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1686,7 +1686,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20new%20therapies%20are%20available%20for%20advanced%20or%20recurrent%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20new%20therapies%20are%20available%20for%20advanced%20or%20recurrent%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1696,7 +1696,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20immunotherapy%20like%20cemiplimab%20work%2C%20and%20who%20might%20receive%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20immunotherapy%20like%20cemiplimab%20work%2C%20and%20who%20might%20receive%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1706,7 +1706,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20do%20doctors%20mean%20by%20%22locally%20advanced%22%20vs%20%22metastatic%22%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20do%20doctors%20mean%20by%20%22locally%20advanced%22%20vs%20%22metastatic%22%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1716,7 +1716,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Are%20there%20clinical%20trials%20studying%20better%20treatments%20for%20high-risk%20SCC%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Are%20there%20clinical%20trials%20studying%20better%20treatments%20for%20high-risk%20SCC%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1726,7 +1726,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20stay%20educated%20about%20SCC%20without%20becoming%20overwhelmed%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20stay%20educated%20about%20SCC%20without%20becoming%20overwhelmed%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1761,7 +1761,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20an%20actinic%20keratosis%2C%20and%20why%20do%20doctors%20call%20it%20a%20%22precancer%22%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20an%20actinic%20keratosis%2C%20and%20why%20do%20doctors%20call%20it%20a%20%22precancer%22%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1771,7 +1771,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20it%20form%20%E2%80%94%20and%20what%20does%20years%20of%20sun%20exposure%20actually%20do%20to%20the%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20it%20form%20%E2%80%94%20and%20what%20does%20years%20of%20sun%20exposure%20actually%20do%20to%20the%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1781,7 +1781,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20common%20is%20it%20to%20have%20more%20than%20one%20AK%20at%20the%20same%20time%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20common%20is%20it%20to%20have%20more%20than%20one%20AK%20at%20the%20same%20time%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1791,7 +1791,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20an%20AK%20usually%20look%20or%20feel%20like%20on%20the%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20an%20AK%20usually%20look%20or%20feel%20like%20on%20the%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1801,7 +1801,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Can%20an%20actinic%20keratosis%20go%20away%20on%20its%20own%2C%20or%20do%20they%20always%20need%20treatment%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Can%20an%20actinic%20keratosis%20go%20away%20on%20its%20own%2C%20or%20do%20they%20always%20need%20treatment%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1811,7 +1811,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20it%20mean%20when%20doctors%20say%20an%20AK%20can%20%22turn%20into%22%20squamous%20cell%20carcinoma%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20it%20mean%20when%20doctors%20say%20an%20AK%20can%20%22turn%20into%22%20squamous%20cell%20carcinoma%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1821,7 +1821,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20likely%20is%20that%20to%20happen%2C%20and%20how%20long%20does%20it%20take%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20likely%20is%20that%20to%20happen%2C%20and%20how%20long%20does%20it%20take%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1831,7 +1831,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20are%20some%20people%20more%20prone%20to%20AKs%20than%20others%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20are%20some%20people%20more%20prone%20to%20AKs%20than%20others%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1841,7 +1841,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20my%20skin%20type%20or%20history%20of%20tanning%20affect%20my%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20my%20skin%20type%20or%20history%20of%20tanning%20affect%20my%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1851,7 +1851,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=If%20I%27ve%20had%20AKs%20treated%2C%20does%20that%20mean%20I%27m%20more%20likely%20to%20get%20others%20later%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=If%20I%27ve%20had%20AKs%20treated%2C%20does%20that%20mean%20I%27m%20more%20likely%20to%20get%20others%20later%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1861,7 +1861,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20the%20main%20treatments%20for%20actinic%20keratosis%20%E2%80%94%20freezing%2C%20creams%2C%20or%20light%20therapy%20%E2%80%94%20and%20how%20do%20they%20work%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20the%20main%20treatments%20for%20actinic%20keratosis%20%E2%80%94%20freezing%2C%20creams%2C%20or%20light%20therapy%20%E2%80%94%20and%20how%20do%20they%20work%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1871,7 +1871,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20treating%20one%20spot%20at%20a%20time%20and%20%22field%20therapy%22%20for%20a%20whole%20area%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20difference%20between%20treating%20one%20spot%20at%20a%20time%20and%20%22field%20therapy%22%20for%20a%20whole%20area%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1881,7 +1881,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20effective%20are%20creams%20like%205-fluorouracil%2C%20imiquimod%2C%20or%20diclofenac%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20effective%20are%20creams%20like%205-fluorouracil%2C%20imiquimod%2C%20or%20diclofenac%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1891,7 +1891,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20is%20photodynamic%20therapy%20(PDT)%2C%20and%20what%20should%20I%20expect%20during%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20is%20photodynamic%20therapy%20(PDT)%2C%20and%20what%20should%20I%20expect%20during%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1901,7 +1901,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20doctors%20decide%20which%20treatment%20is%20right%20for%20me%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20doctors%20decide%20which%20treatment%20is%20right%20for%20me%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1911,7 +1911,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20daily%20habits%20can%20lower%20my%20chances%20of%20developing%20new%20AKs%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20daily%20habits%20can%20lower%20my%20chances%20of%20developing%20new%20AKs%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1921,7 +1921,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20important%20is%20sunscreen%20in%20preventing%20future%20AKs%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20important%20is%20sunscreen%20in%20preventing%20future%20AKs%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1931,7 +1931,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20SPF%20and%20type%20of%20sunscreen%20should%20I%20use%20if%20I%20already%20have%20sun-damaged%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20SPF%20and%20type%20of%20sunscreen%20should%20I%20use%20if%20I%20already%20have%20sun-damaged%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1941,7 +1941,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20much%20do%20hats%2C%20clothing%2C%20and%20shade%20really%20help%20compared%20to%20sunscreen%20alone%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20much%20do%20hats%2C%20clothing%2C%20and%20shade%20really%20help%20compared%20to%20sunscreen%20alone%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1951,7 +1951,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20taking%20nicotinamide%20(vitamin%20B3)%20actually%20help%20prevent%20AKs%20or%20new%20skin%20cancers%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20taking%20nicotinamide%20(vitamin%20B3)%20actually%20help%20prevent%20AKs%20or%20new%20skin%20cancers%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1961,7 +1961,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20often%20should%20I%20check%20my%20skin%20if%20I%27ve%20had%20actinic%20keratoses%20before%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20often%20should%20I%20check%20my%20skin%20if%20I%27ve%20had%20actinic%20keratoses%20before%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1971,7 +1971,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20should%20I%20look%20for%20when%20checking%20areas%20that%20have%20been%20treated%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20should%20I%20look%20for%20when%20checking%20areas%20that%20have%20been%20treated%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1981,7 +1981,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20should%20I%20see%20a%20doctor%20again%20if%20a%20treated%20area%20becomes%20rough%20or%20red%20again%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20should%20I%20see%20a%20doctor%20again%20if%20a%20treated%20area%20becomes%20rough%20or%20red%20again%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -1991,7 +1991,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20balance%20protecting%20my%20skin%20from%20the%20sun%20with%20getting%20enough%20vitamin%20D%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20balance%20protecting%20my%20skin%20from%20the%20sun%20with%20getting%20enough%20vitamin%20D%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2001,7 +2001,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20can%20I%20do%20year-round%20to%20keep%20my%20skin%20healthier%20and%20reduce%20future%20sun%20damage%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20can%20I%20do%20year-round%20to%20keep%20my%20skin%20healthier%20and%20reduce%20future%20sun%20damage%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2036,7 +2036,7 @@ export default function SmartQuestions() {
             <ol className="space-y-3 list-decimal list-inside text-slate leading-relaxed">
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Why%20does%20sun%20exposure%20cause%20skin%20cancer%20%E2%80%94%20what%20actually%20happens%20inside%20the%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Why%20does%20sun%20exposure%20cause%20skin%20cancer%20%E2%80%94%20what%20actually%20happens%20inside%20the%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2046,7 +2046,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20much%20daily%20sunlight%20is%20too%20much%20for%20my%20skin%20type%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20much%20daily%20sunlight%20is%20too%20much%20for%20my%20skin%20type%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2056,7 +2056,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20difference%20between%20UVA%20and%20UVB%20rays%2C%20and%20why%20does%20that%20matter%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20difference%20between%20UVA%20and%20UVB%20rays%2C%20and%20why%20does%20that%20matter%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2066,7 +2066,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20does%20sunscreen%20work%2C%20and%20how%20can%20I%20tell%20if%20it%27s%20still%20effective%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20does%20sunscreen%20work%2C%20and%20how%20can%20I%20tell%20if%20it%27s%20still%20effective%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2076,7 +2076,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20common%20myths%20about%20sun%20exposure%20or%20tanning%20that%20I%20should%20stop%20believing%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20common%20myths%20about%20sun%20exposure%20or%20tanning%20that%20I%20should%20stop%20believing%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2086,7 +2086,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%27s%20the%20easiest%20way%20to%20make%20sunscreen%20part%20of%20my%20everyday%20routine%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%27s%20the%20easiest%20way%20to%20make%20sunscreen%20part%20of%20my%20everyday%20routine%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2096,7 +2096,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20much%20sunscreen%20should%20I%20apply%20to%20cover%20my%20whole%20face%20and%20body%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20much%20sunscreen%20should%20I%20apply%20to%20cover%20my%20whole%20face%20and%20body%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2106,7 +2106,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20often%20should%20I%20reapply%20if%20I%27m%20sweating%20or%20swimming%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20often%20should%20I%20reapply%20if%20I%27m%20sweating%20or%20swimming%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2116,7 +2116,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20SPF%20100%20protect%20me%20much%20better%20than%20SPF%2050%20in%20real%20life%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20SPF%20100%20protect%20me%20much%20better%20than%20SPF%2050%20in%20real%20life%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2126,7 +2126,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20choose%20between%20mineral%20and%20chemical%20sunscreens%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20choose%20between%20mineral%20and%20chemical%20sunscreens%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2136,7 +2136,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20types%20of%20hats%2C%20shirts%2C%20and%20fabrics%20give%20the%20best%20UV%20protection%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20types%20of%20hats%2C%20shirts%2C%20and%20fabrics%20give%20the%20best%20UV%20protection%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2146,7 +2146,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20check%20if%20my%20clothes%20have%20UPF%20built%20in%2C%20or%20if%20they%20need%20special%20wash-in%20protection%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20check%20if%20my%20clothes%20have%20UPF%20built%20in%2C%20or%20if%20they%20need%20special%20wash-in%20protection%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2156,7 +2156,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=At%20what%20times%20of%20day%20is%20the%20sun%27s%20UV%20strongest%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=At%20what%20times%20of%20day%20is%20the%20sun%27s%20UV%20strongest%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2166,7 +2166,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20smart%20ways%20to%20enjoy%20outdoor%20activities%20safely%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20smart%20ways%20to%20enjoy%20outdoor%20activities%20safely%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2176,7 +2176,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20car%20windows%20and%20indoor%20light%20exposure%20affect%20UV%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20car%20windows%20and%20indoor%20light%20exposure%20affect%20UV%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2186,7 +2186,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20learn%20to%20recognize%20early%20warning%20signs%20of%20skin%20changes%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20learn%20to%20recognize%20early%20warning%20signs%20of%20skin%20changes%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2196,7 +2196,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20does%20the%20%22ABCDE%20rule%22%20for%20moles%20stand%20for%2C%20and%20how%20can%20I%20use%20it%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20does%20the%20%22ABCDE%20rule%22%20for%20moles%20stand%20for%2C%20and%20how%20can%20I%20use%20it%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2206,7 +2206,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20often%20should%20most%20people%20do%20self-skin%20checks%2C%20and%20how%20long%20should%20it%20take%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20often%20should%20most%20people%20do%20self-skin%20checks%2C%20and%20how%20long%20should%20it%20take%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2216,7 +2216,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20I%20take%20clear%20reference%20photos%20of%20my%20skin%20to%20track%20changes%20over%20time%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20I%20take%20clear%20reference%20photos%20of%20my%20skin%20to%20track%20changes%20over%20time%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2226,7 +2226,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=When%20should%20I%20make%20a%20dermatology%20appointment%20even%20if%20I%27m%20not%20sure%20something%20looks%20serious%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=When%20should%20I%20make%20a%20dermatology%20appointment%20even%20if%20I%27m%20not%20sure%20something%20looks%20serious%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2236,7 +2236,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=Does%20diet%20or%20hydration%20affect%20how%20my%20skin%20responds%20to%20sun%20damage%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=Does%20diet%20or%20hydration%20affect%20how%20my%20skin%20responds%20to%20sun%20damage%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2246,7 +2246,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20role%20does%20vitamin%20D%20play%2C%20and%20how%20can%20I%20get%20enough%20safely%20without%20sunburn%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20role%20does%20vitamin%20D%20play%2C%20and%20how%20can%20I%20get%20enough%20safely%20without%20sunburn%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2256,7 +2256,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20do%20smoking%20or%20alcohol%20influence%20skin%20cancer%20risk%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20do%20smoking%20or%20alcohol%20influence%20skin%20cancer%20risk%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2266,7 +2266,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=How%20can%20I%20help%20my%20children%20or%20family%20learn%20good%20sun%20protection%20habits%20early%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=How%20can%20I%20help%20my%20children%20or%20family%20learn%20good%20sun%20protection%20habits%20early%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
@@ -2276,7 +2276,7 @@ export default function SmartQuestions() {
               </li>
               <li>
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt?prompt=What%20are%20small%20daily%20choices%20that%20add%20up%20to%20lifelong%20healthy%20skin%3F"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator?prompt=What%20are%20small%20daily%20choices%20that%20add%20up%20to%20lifelong%20healthy%20skin%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-teal hover:text-teal/80 hover:underline transition-colors"
