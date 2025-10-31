@@ -22,7 +22,7 @@ export default function Hero() {
               className="flex items-center justify-center gap-3 bg-teal text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl"
             >
               <MessageSquare size={22} />
-              Chat with the Beating Skin Cancer GPT
+              Chat with the Navigator
             </a>
           </div>
 
