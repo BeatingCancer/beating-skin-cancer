@@ -362,7 +362,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -637,7 +637,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -912,7 +912,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -1187,7 +1187,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -1462,7 +1462,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -1737,7 +1737,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -2012,7 +2012,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
@@ -2287,7 +2287,7 @@ export default function SmartQuestions() {
             </ol>
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-6 border-t border-slate/10">
               <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-teal hover:text-teal/80 transition-colors font-medium"
