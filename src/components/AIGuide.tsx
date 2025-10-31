@@ -102,14 +102,17 @@ export default function AIGuide() {
               </div>
             </div>
             <div className="text-center">
-              <a
-                href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl font-medium"
-              >
-                Chat with Beating Skin Cancer GPT
-              </a>
+              <div className="flex flex-col items-center gap-2">
+                <a
+                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl font-medium"
+                >
+                  Chat with the Navigator
+                </a>
+                <p className="text-sm text-slate/60">Ask questions and get clear, trusted answers — instantly.</p>
+              </div>
             </div>
           </div>
         </div>
