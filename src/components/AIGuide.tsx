@@ -104,7 +104,7 @@ export default function AIGuide() {
             <div className="text-center">
               <div className="flex flex-col items-center gap-2">
                 <a
-                  href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+                  href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl font-medium"
