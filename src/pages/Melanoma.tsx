@@ -250,7 +250,7 @@ export default function Melanoma() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium"
           >
-            Chat with Chat with the Navigator
+            Chat with the Navigator
           </a>
         </div>
       </div>
