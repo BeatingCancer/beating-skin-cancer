@@ -23,14 +23,14 @@ export default function AtypicalNevi() {
 
         <div className="bg-gradient-to-br from-navy to-slate rounded-2xl shadow-lg p-8 text-center mb-8">
           <h3 className="text-2xl font-serif text-white mb-4">Need More Information?</h3>
-          <p className="text-white/80 mb-6">Chat with our AI guide for personalized information about atypical nevi</p>
+          <p className="text-white/80 mb-6">Ask questions and get clear, trusted answers — instantly.</p>
           <a
             href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium"
           >
-            Chat with Beating Skin Cancer GPT
+            Chat with the Navigator
           </a>
         </div>
 
@@ -268,7 +268,7 @@ export default function AtypicalNevi() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-teal text-white px-8 py-3 rounded-full hover:bg-teal/90 transition-all shadow-md hover:shadow-lg font-medium"
           >
-            Chat with Beating Skin Cancer GPT
+            Chat with the Navigator
           </a>
         </div>
       </div>
