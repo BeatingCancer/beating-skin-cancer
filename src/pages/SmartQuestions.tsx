@@ -2315,7 +2315,7 @@ export default function SmartQuestions() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-teal px-8 py-3 rounded-full hover:bg-white/90 transition-all shadow-lg hover:shadow-xl font-semibold"
           >
-            Chat with AI Guide <ArrowRight size={20} />
+            Chat with the Navigator <ArrowRight size={20} />
           </a>
         </div>
       </div>
