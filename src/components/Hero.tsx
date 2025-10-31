@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="max-w-4xl">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-navy leading-tight mb-6">
-            Learn. Heal. Move Forward<br />with Confidence.
+            Turn Fear Into Confidence.
           </h1>
           <p className="text-xl sm:text-2xl text-slate/80 mb-10 leading-relaxed font-light">
            Your trusted, research-backed guide. Created by expert physicians for every step of your journey.
