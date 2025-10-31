@@ -11,7 +11,7 @@ export default function Hero() {
             Turn Fear Into Confidence.
           </h1>
           <p className="text-xl sm:text-2xl text-slate/80 mb-10 leading-relaxed font-light">
-           Meet the Beating Skin Cancer Navigator — your AI-powered educational companion, built by skin cancer experts to guide you step by step.
+           Built by experts. Powered by AI. Guiding you every step.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
