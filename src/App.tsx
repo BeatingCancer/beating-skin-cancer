@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { useEffect } from 'react';
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+import GoogleAnalytics from './components/GoogleAnalytics';
 import Home from './pages/Home';
 import Melanoma from './pages/Melanoma';
 import MelanomaStageMeaning from './pages/MelanomaStageMeaning';
@@ -31,6 +32,7 @@ function ScrollToTop() {
 function App() {
   return (
     <Router>
+      <GoogleAnalytics />
       <ScrollToTop />
       <div className="min-h-screen bg-ivory">
         <Navigation />
