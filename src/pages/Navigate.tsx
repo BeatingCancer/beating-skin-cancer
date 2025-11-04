@@ -21,7 +21,7 @@ export default function Navigate() {
 
     setTimeout(() => {
       window.location.replace(fullUrl);
-    }, 100);
+    }, 30);
   }, [searchParams]);
 
   return (
