@@ -27,7 +27,7 @@ export default function Hero() {
               </a>
             </div>
             <p className="text-sm text-slate/60 text-center sm:text-left">
-              Powered by ChatGPT | Free to use | Account required
+              Powered by ChatGPT (free account required)
             </p>
           </div>
 
