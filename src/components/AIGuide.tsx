@@ -74,7 +74,7 @@ export default function AIGuide() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-navy mb-2">Instant Responses</h3>
-                  <p className="text-slate/70">Available 24/7 whenever questions arise.</p>
+                  <p className="text-slate/70">Get your answers whenever questions arise.</p>
                 </div>
               </div>
               <div className="flex gap-4">
