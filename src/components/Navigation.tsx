@@ -18,8 +18,15 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center">
-            <Link to="/" className="text-2xl font-serif text-navy font-bold hover:text-teal transition-colors">
-              BeatingSkinCancer.com
+            <Link to="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity">
+              <img
+                src="/Beating Cancer logo.png"
+                alt="Beating Cancer Logo"
+                className="h-12 w-12"
+              />
+              <span className="text-2xl font-serif text-navy font-bold">
+                BeatingSkinCancer.com
+              </span>
             </Link>
           </div>
 
