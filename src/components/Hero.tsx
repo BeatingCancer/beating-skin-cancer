@@ -14,16 +14,21 @@ export default function Hero() {
            Our AI Navigator is trained on verified medical research and clinical guidelines. Get expert answers instantly, 24/7.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4">
-            <a
-              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center justify-center gap-3 bg-teal text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl"
-            >
-              <MessageSquare size={22} />
-              Chat with the Navigator
-            </a>
+          <div className="flex flex-col gap-4">
+            <div className="flex flex-col sm:flex-row gap-4">
+              <a
+                href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center gap-3 bg-teal text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-teal/90 transition-all shadow-lg hover:shadow-xl"
+              >
+                <MessageSquare size={22} />
+                Chat with the Navigator
+              </a>
+            </div>
+            <p className="text-sm text-slate/60 text-center sm:text-left">
+              Powered by ChatGPT | Free to use | Account required
+            </p>
           </div>
 
           <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-8">
