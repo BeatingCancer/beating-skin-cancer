@@ -84,12 +84,7 @@ export default function Navigation() {
             >
               Prevention
             </Link>
-            <Link
-              to="/about"
-              className="text-slate hover:text-teal transition-colors font-medium"
-            >
-              About Us
-            </Link>
+          
             <Link
               to="/questions-to-ask"
               className="text-slate hover:text-teal transition-colors font-medium"
