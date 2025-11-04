@@ -8,10 +8,10 @@ export default function Hero() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="max-w-4xl">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-navy leading-tight mb-6">
-            Turn Fear Into Confidence.
+            Have Questions About Skin Cancer?
           </h1>
           <p className="text-xl sm:text-2xl text-slate/80 mb-10 leading-relaxed font-light">
-           Built by experts. Powered by AI. Guiding you every step.
+           Get expert answers instantly. Available 24/7 to guide you every step
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
@@ -28,7 +28,7 @@ export default function Hero() {
 
           <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-8">
             <div className="flex flex-col">
-              <div className="text-4xl font-serif text-teal mb-2">Expert-Led</div>
+              <div className="text-4xl font-serif text-teal mb-2">Build by Experts</div>
               <p className="text-slate/70">Created by board-certified physicians</p>
             </div>
             <div className="flex flex-col">
