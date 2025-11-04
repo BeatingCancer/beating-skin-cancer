@@ -20,9 +20,9 @@ export default function Navigation() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
               <img
-                src="/Beating Cancer logo.png"
+                src="/Beating Cancer logo copy.png"
                 alt="Beating Cancer Logo"
-                className="h-10 w-10"
+                className="h-12 w-12"
               />
               <span className="text-2xl font-serif text-navy font-bold">
                 BeatingSkinCancer.com
