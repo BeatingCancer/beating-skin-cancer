@@ -51,7 +51,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">Learn about the next steps, timeline, and what happens after diagnosis</div>
             </a>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
@@ -60,7 +60,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">Decode the medical terms and numbers in your pathology results</div>
             </a>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
@@ -69,7 +69,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">Why melanoma thickness is one of the most important factors</div>
             </a>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
@@ -85,7 +85,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">Plain-language explanation of melanoma staging from 0 to IV</div>
             </Link>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
@@ -94,7 +94,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">How treatment plans differ based on your specific stage</div>
             </a>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
@@ -103,7 +103,7 @@ export default function Melanoma() {
               <div className="text-sm text-slate/70">Tips for locating experienced melanoma doctors and treatment centers</div>
             </a>
             <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
+              href="hhttps://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
               rel="noopener noreferrer"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
