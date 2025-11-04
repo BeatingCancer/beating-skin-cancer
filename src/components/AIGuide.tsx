@@ -63,7 +63,7 @@ export default function AIGuide() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-navy mb-2">Evidence-Based</h3>
-                  <p className="text-slate/70">All information is backed by peer-reviewed research.</p>
+                  <p className="text-slate/70">All information is backed by clinical guidelines & research.</p>
                 </div>
               </div>
               <div className="flex gap-4">
@@ -74,7 +74,7 @@ export default function AIGuide() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-navy mb-2">Instant Responses</h3>
-                  <p className="text-slate/70">No waiting rooms or appointments needed.</p>
+                  <p className="text-slate/70">Available 24/7 whenever questions arise.</p>
                 </div>
               </div>
               <div className="flex gap-4">
