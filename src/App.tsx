@@ -17,6 +17,7 @@ import About from './pages/About';
 import SmartQuestions from './pages/SmartQuestions';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
+import Navigate from './pages/Navigate';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -51,6 +52,7 @@ function App() {
           <Route path="/questions-to-ask" element={<SmartQuestions />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-of-service" element={<TermsOfService />} />
+          <Route path="/navigate" element={<Navigate />} />
         </Routes>
         <Footer />
       </div>
