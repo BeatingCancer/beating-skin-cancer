@@ -33,16 +33,16 @@ export default function Hero() {
 
           <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-8">
             <div className="flex flex-col">
-              <div className="text-4xl font-serif text-teal mb-2">Build by Experts</div>
+              <div className="text-4xl font-serif text-teal mb-2">Built by Experts</div>
               <p className="text-slate/70">Created by board-certified physicians</p>
             </div>
             <div className="flex flex-col">
               <div className="text-4xl font-serif text-teal mb-2">Evidence-Based</div>
-              <p className="text-slate/70">Backed by the latest research</p>
+              <p className="text-slate/70">Trained on clinical guidelines & research</p>
             </div>
             <div className="flex flex-col">
               <div className="text-4xl font-serif text-teal mb-2">Personalized</div>
-              <p className="text-slate/70">Tailored guidance for your journey</p>
+              <p className="text-slate/70">Tailored education for your journey</p>
             </div>
           </div>
         </div>
