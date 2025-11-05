@@ -41,15 +41,13 @@ export default function Melanoma() {
             Explore these essential topics to better understand your melanoma diagnosis and treatment options:
           </p>
           <div className="space-y-3">
-            <a
-              href="https://chatgpt.com/g/g-68e67f2c3a3881918f3602dcdb559742-beating-skin-cancer-gpt"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              to="/melanoma/what-to-expect-after-diagnosis"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
             >
               <div className="font-semibold text-teal mb-1">What to Expect After a Melanoma Diagnosis</div>
               <div className="text-sm text-slate/70">Learn about the next steps, timeline, and what happens after diagnosis</div>
-            </a>
+            </Link>
             <a
               href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
