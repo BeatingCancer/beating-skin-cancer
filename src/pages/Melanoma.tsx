@@ -84,15 +84,13 @@ export default function Melanoma() {
               <div className="font-semibold text-teal mb-1">What Does My Melanoma Stage Mean?</div>
               <div className="text-sm text-slate/70">Plain-language explanation of melanoma staging from 0 to IV</div>
             </Link>
-            <a
-              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              to="/melanoma/melanoma-treatment-options"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
             >
               <div className="font-semibold text-teal mb-1">Melanoma Treatment Options by Stage</div>
               <div className="text-sm text-slate/70">How treatment plans differ based on your specific stage</div>
-            </a>
+            </Link>
             <a
               href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
