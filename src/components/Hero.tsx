@@ -10,7 +10,7 @@ export default function Hero() {
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-navy leading-tight mb-6">
             Have Questions About Skin Cancer?
           </h1>
-          <p className="text-xl sm:text-2xl text-slate/80 mb-10 leading-relaxed font-light">
+          <p className="text-xl sm:text-2xl text-slate/90 mb-10 leading-relaxed font-light">
            Get expert answers instantly, 24/7. <br /> Built by Physicians. Powered by AI. 
           </p>
 
