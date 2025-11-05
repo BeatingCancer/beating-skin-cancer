@@ -12,7 +12,7 @@ export default function HowItWorks() {
             </div>
             <h3 className="text-2xl font-serif text-navy mb-4">1. Ask Your Question</h3>
             <p className="text-slate/70 leading-relaxed">
-              Start a conversation with our AI about your skin cancer concerns, diagnosis, or treatment options.
+              Sign up with ChatGPT. Start a conversation with our customized AI about your skin cancer concerns, diagnosis, or treatment options.
             </p>
           </div>
           <div className="text-center">
