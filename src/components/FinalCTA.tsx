@@ -9,7 +9,7 @@ export default function FinalCTA() {
         </h2>
         <p className="text-xl text-slate/70 mb-10 leading-relaxed">
           Whether you're newly diagnosed, exploring treatment options, or supporting a loved one,
-          our AI guide is here to help you navigate every step with confidence.
+          our customized AI educator is here to help you navigate every step with confidence.
         </p>
         <a
           href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
