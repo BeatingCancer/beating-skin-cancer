@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Melanoma from './pages/Melanoma';
 import MelanomaStageMeaning from './pages/MelanomaStageMeaning';
 import MelanomaTreatmentOptions from './pages/MelanomaTreatmentOptions';
+import SentinelLymphNode from './pages/SentinelLymphNode';
 import SquamousCellCarcinoma from './pages/SquamousCellCarcinoma';
 import BasalCellCarcinoma from './pages/BasalCellCarcinoma';
 import BCCBiopsyMeaning from './pages/BCCBiopsyMeaning';
@@ -40,6 +41,7 @@ function App() {
           <Route path="/melanoma" element={<Melanoma />} />
           <Route path="/melanoma/melanoma-stage-meaning" element={<MelanomaStageMeaning />} />
           <Route path="/melanoma/melanoma-treatment-options" element={<MelanomaTreatmentOptions />} />
+          <Route path="/melanoma/sentinel-lymph-node-biopsy" element={<SentinelLymphNode />} />
           <Route path="/squamous-cell-carcinoma" element={<SquamousCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma" element={<BasalCellCarcinoma />} />
           <Route path="/basal-cell-carcinoma/biopsy-meaning" element={<BCCBiopsyMeaning />} />

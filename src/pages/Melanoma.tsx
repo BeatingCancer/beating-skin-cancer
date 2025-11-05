@@ -68,15 +68,13 @@ export default function Melanoma() {
               <div className="font-semibold text-teal mb-1">Breslow Depth Explained: How "Thickness" Affects Prognosis</div>
               <div className="text-sm text-slate/70">Why melanoma thickness is one of the most important factors</div>
             </a>
-            <a
-              href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              to="/melanoma/sentinel-lymph-node-biopsy"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
             >
               <div className="font-semibold text-teal mb-1">Sentinel Lymph Node Biopsy: What It Means for Melanoma</div>
               <div className="text-sm text-slate/70">Understanding when and why this procedure is recommended</div>
-            </a>
+            </Link>
             <Link
               to="/melanoma/melanoma-stage-meaning"
               className="block p-4 bg-sky/5 hover:bg-sky/10 rounded-lg transition-colors border border-teal/10 hover:border-teal/30"
