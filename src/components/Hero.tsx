@@ -11,7 +11,7 @@ export default function Hero() {
             Have Questions About Skin Cancer?
           </h1>
           <p className="text-xl sm:text-2xl text-slate/80 mb-10 leading-relaxed font-light">
-           Get expert answers instantly, 24/7. <br /> Our AI Educator is built by dermatologists, trained on clinical guidelines & research. 
+           Get expert answers instantly, 24/7. <br /> Built by dermatologists. Powered by AI. 
           </p>
 
           <div className="flex flex-col gap-4">
