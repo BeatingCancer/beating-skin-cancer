@@ -31,6 +31,20 @@ export default function Navigation() {
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
+            <Link
+              to="/questions-to-ask"
+              className="text-slate hover:text-teal transition-colors font-medium"
+            >
+              200 Smart Questions
+            </Link>
+
+            <Link
+              to="/prevention"
+              className="text-slate hover:text-teal transition-colors font-medium"
+            >
+              Prevention
+            </Link>
+
             <div
               className="relative"
               onMouseEnter={() => setIsDropdownOpen(true)}
@@ -85,19 +99,6 @@ export default function Navigation() {
                 </div>
               )}
             </div>
-            <Link
-              to="/prevention"
-              className="text-slate hover:text-teal transition-colors font-medium"
-            >
-              Prevention
-            </Link>
-          
-            <Link
-              to="/questions-to-ask"
-              className="text-slate hover:text-teal transition-colors font-medium"
-            >
-              200 Smart Questions
-            </Link>
             <a
               href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
               target="_blank"
@@ -123,6 +124,22 @@ export default function Navigation() {
         {isMobileMenuOpen && (
           <div className="md:hidden border-t border-slate/10">
             <div className="px-4 py-6 space-y-4">
+              <Link
+                to="/questions-to-ask"
+                className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                200 Smart Questions
+              </Link>
+
+              <Link
+                to="/prevention"
+                className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                Prevention
+              </Link>
+
               <div className="space-y-2">
                 <div className="text-sm font-semibold text-slate/60 px-4">Explore Cancers</div>
                 <Link
@@ -166,22 +183,6 @@ export default function Navigation() {
                   <div className="text-sm text-slate/60">Unusual moles</div>
                 </Link>
               </div>
-
-              <Link
-                to="/prevention"
-                className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                Prevention
-              </Link>
-
-              <Link
-                to="/questions-to-ask"
-                className="block px-4 py-3 text-slate hover:bg-teal/5 hover:text-teal transition-colors rounded-lg font-medium"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                200 Smart Questions
-              </Link>
 
               <a
                 href="https://chatgpt.com/g/g-69045e9a6ad8819192dbd404ede6db6d-beating-skin-cancer-navigator"
